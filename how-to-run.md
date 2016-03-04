@@ -26,7 +26,7 @@ layout: page
 
    You should see the start screen now.
 
-   ![Ja2 Stracciatella start screen](img/start-screen.png)
+   ![Ja2 Stracciatella start screen](/img/start-screen.png)
 
 Further command line options are available. To list available options run
 
