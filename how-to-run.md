@@ -24,6 +24,10 @@ layout: page
    - ```ja2.exe -resversion FRENCH``` on Windows.
    - ```ja2 -resversion FRENCH``` on Linux or OS X.
 
+   You should see the start screen now.
+
+   ![Ja2 Stracciatella start screen](img/start-screen.png)
+
 Further command line options are available. To list available options run
 
 - `ja2.exe -help` on Windows.
