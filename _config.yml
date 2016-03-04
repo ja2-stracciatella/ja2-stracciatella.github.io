@@ -28,8 +28,8 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  How to run: "how-to-run.html"
-  Download: "download.html"
+  How to run: "how-to-run"
+  Download: "download"
   Development: "https://www.github.com/ja2-stracciatella/ja2-stracciatella"
 
 # --- Footer options --- #
