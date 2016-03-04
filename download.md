@@ -11,7 +11,7 @@ layout: page
 - [ja2-stracciatella-0.14.01.zip](https://github.com/ja2-stracciatella/ja2-stracciatella/archive/v0.14.01.zip) - Source .zip
 - [ja2-stracciatella-0.14.01.tar.gz](https://github.com/ja2-stracciatella/ja2-stracciatella/archive/v0.14.01.tar.gz) - Source .tar.gz
 
-Windows and OS X Packages will be included in next release.
+We are sorry, but Windows and OS X Packages will only be included in next release.
 
 ### Previous Releases
 
