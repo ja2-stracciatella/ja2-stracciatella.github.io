@@ -1,0 +1,15 @@
+.navbar-custom .navbar-brand:hover, .navbar-custom .navbar-brand:focus, .navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus {
+  color: #9c2111;
+}
+
+code {
+  color: #404040;
+  font-size: 85%;
+}
+
+a, p a {
+  color: #9c2111;
+}
+a:hover, a:focus, p a:hover, p a:focus {
+  color: #e79408;
+}
