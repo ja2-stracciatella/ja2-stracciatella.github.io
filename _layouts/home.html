@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{% if page.title %}
+<header class="header-page">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+	  <div class="page-heading">
+	    <h1>{{ page.title }}</h1>
+	    {% if page.subtitle %}
+	    <hr class="small">
+	    <span class="page-subheading">{{ page.subtitle }}</span>
+	    {% endif %}
+	  </div>
+    </div>
+  </div>
+</header>
+{% endif %}
+
+<div class="row">
+  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    {% capture home-include %}{% include home.md %}{% endcapture %}
+    {{ home-include | markdownify }}
+
+    {% if site.posts.first %}
+    <h2>Recent News</h2>
+    <div class="posts-list">
+        <article class="post-preview">
+          <a href="{{ site.posts.first.url | prepend: site.baseurl }}">
+      	  <h3 class="post-subtitle">{{ site.posts.first.title }}</h2>
+          </a>
+
+          <p class="post-meta">
+            {{ site.posts.first.date | date: "%B %-d, %Y" }}
+          </p>
+
+          <div class="post-entry">
+            {{ site.posts.first.excerpt | strip_html | xml_escape}}
+      	  <a href="{{ "/news/" | prepend: site.baseurl }}" class="post-read-more"> Read&nbsp;more...</a>
+          </div>
+
+         </article>
+    </div>
+    {% endif %}
+
+    {{ content }}
+	{% if page.comments %}
+    <div class="disqus-comments">
+	  {% include disqus.html %}
+    </div>
+	{% endif %}
+  </div>
+</div>
