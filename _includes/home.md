@@ -7,3 +7,5 @@ The goal of the project is to make Jagged Alliance 2 available on a wide range o
 Data files from the original game are still required and will be used by JA2-Stracciatella.
 
 Get started: [How to run](/how-to-run) - [Download](/download)
+
+Discussions: [On The Bears Pit](http://thepit.ja-galaxy-forum.com/index.php?t=thread&frm_id=224) - [On ModDB](http://www.moddb.com/mods/ja2-stracciatella)
