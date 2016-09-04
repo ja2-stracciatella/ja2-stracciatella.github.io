@@ -34,7 +34,7 @@ Speaking of age, these were the old days of PC-gaming, even before Windows 95. J
 Unlike *JA1*, *DG* is mission-based, offers a multiplayer mode and a map editor. It runs on the same engine as *JA1* and is often referred 
 to as *Jagged Alliance 1.5*.
 When it first came out, *DG* was widely viewed as just an add-on for *JA1* or a mission-pack. This was probably because it looked more or less the same and also shared most of it's content. Nevertheless, it's an original and very special game in the Jagged Alliance series and it's unique playstyle hasn't really been duplicated so far.
-By the way, both *JA1* and *DG* were re-released on Steam as the Jagged Alliance: Gold Edition in 2014 by bitComposer Games.
+By the way, both *JA1* and *DG* were re-released on Steam as the [Jagged Alliance: Gold Edition](http://store.steampowered.com/app/283270/?) in 2014 by bitComposer Games.
 
 ## 3. Jagged Alliance 2 Demo (1998)
 
