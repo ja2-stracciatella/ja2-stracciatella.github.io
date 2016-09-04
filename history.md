@@ -312,7 +312,7 @@ Not only is there no game out there that is called *Jagged Alliance 3*, but (mor
 
 ## Add-on: Other games worth mentioning
 
-There are several games out there which share some or in some cases even lots of gameplay-elements with *JA2* without being unofficial sequels or "spiritual successors". Basically, almost any game that features squad-based tactical battles, preferably with a military theme, has some resemblance to *JA2*.
+There are several games out there which share some or in some cases even lots of gameplay-elements with *JA2* without being unofficial sequels or "spiritual successors". Basically, almost any game that features tactical battles with small squads, preferably in turn-based mode and with a military theme, has some resemblance to *JA2*.
 Here's a short and incomplete list of games similar to *JA2*:
 + [Fallout Tactics: BoS](http://www.mobygames.com/game/windows/fallout-tactics-brotherhood-of-steel)
 + [Marauder](http://www.mobygames.com/game/windows/marauder___)
