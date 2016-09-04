@@ -171,7 +171,7 @@ tons of new items, a weather-system, a new AP-system, a new CtH-system, possibil
 
 ## 14. Brigade E5: New Jagged Union (2005)
 
-![Boxart: Brigade E5 German version](img/history/ja2.jpg)
+![Boxart: Brigade E5 German version](img/history/e5.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -193,7 +193,7 @@ PICTURE
 
 ## 16. Hired Guns: The Jagged Edge (2007)
 
-PICTURE
+![Boxart: Hired Guns: The Jagged Edge German version](img/history/hired guns.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -202,3 +202,104 @@ PICTURE
 Russian developer GFI was commissioned to develop two Jagged Alliance games by the IP holder of the Jagged Alliance franchise, Strategy First. These two games were supposed to be Jagged Alliance 3, a sequel to *JA2*, and Jagged Alliance 3D, a remake of *JA2*, just with better graphics.
 To cut a long and strange story short: Things went horribly wrong. In the end, no official sequel or remake were developed by GFI and Strategy First withdrew the rights on the JA franchise from GFI. What we got in the end was *Jazz: Hired Guns*, later renamed to *Hired Guns: The Jagged Edge*. This game was originally developed to be Jagged Alliance 3D. But since GFI had no rights on the IP anymore, the game was renamed.
 And how does it play? – The very first impression is "*JA2* with a new graphic engine". Sounds good so far. However, there is also a bad AI, frustrating gameplay and a bunch of bugs. Like many games on this list, *Hired Guns: The Jagged Edge* underwent a troubled development, which concluded in a strange and dubious release. It quickly drifted off into obscurity.
+
+## 17. 7.62: High Calibre (2007 / 2008)
+
+![Boxart: 7.62: High Calibre US version](img/history/762.jpg)
+
+| AKA | Developer | Status |
+| --- | --- | --- |
+| 7.62, Brigade 7.62: High Calibre | Apeiron | sequel to Brigade E5: New Jagged Union |
+
+This is the direct sequel to *Brigade E5*. Although it was released in Russia in 2007, an international release didn't happen until late 2008. This game has a small but loyal fan base but didn't gain too much attention overall. An add-on named *7.62: Reloaded* was released, but apparently only in Russia. This game lead to the development of a mod called *Blue Sun Mod*, which is a complete overhaul for this game. It is one of the few instances, where playing a modded game without having ever played the vanilla game is absolutely advised!
+Overall, it's an okay-ish game. Maybe it would have been perceived more positively, if people didn't compare it to *JA2* all the time.
+
+## 18. Jagged Alliance DS (2009)
+
+![Boxart: JA DS](img/history/ja1ds.jpg)
+
+| AKA | Developer | Status |
+| --- | --- | --- |
+| JA1 DS | Cypron Studios, Strategy First | official re-release of JA1 |
+
+This is mostly just a re-release of the original *JA1*. Some minor gameplay elements were changed. While this whole thing is definitely a very nice idea, it basically also shows how badly the first Jagged Alliance game has aged.
+And by badly aged, I'm not referring to the graphics, but to the controls and interface, which are by far less userfriendly than in *JA2*.
+Now, if they would have ported *JA2*, that would have been truly amazing!
+
+## 19. Jagged Alliance Online (2012)
+
+![Logo: JAOnline](img/history/jaonline.jpg)
+
+| AKA | Developer | Status |
+| --- | --- | --- |
+| JAOnline, JAO | Cliffhanger Productions | official game |
+
+An average free2play (= pay2win) multiplayer online game with the Jagged Alliance name on it. A new low-point for the franchise.
+This game is not available anymore. *Jagged Alliance Online* has been converted into *Jagged Alliance Online: Reloaded* in 2015.
+
+## 20. Jagged Alliance: Back in Action (2012)
+
+![Boxart: JA:BiA Russian version](img/history/bia.jpg)
+
+| AKA | Developer | Status |
+| --- | --- | --- |
+| BiA | Coreplay | official game, remake of JA2 |
+
+A remake of *JA2*. While it's not really a shitty game, the only new and innovative thing *BiA* brought to the Jagged Alliance franchise is: DLC's. And thinking about it... this is in fact a very shitty thing.
+My DLC-rant aside, this game and it's sequel are probably the best "modern" games with the Jagged Alliance name on them. Of course, this doesn't mean very much, since the competition with everything on this list after *JA2* is rather weak.
+
+## 21. Jagged Alliance: Crossfire (2012)
+
+![Boxart: JA: Crossfire Polish version](img/history/crossfire.jpg)
+
+| AKA | Developer | Status |
+| --- | --- | --- |
+| BiA | Coreplay | official sequel to BiA |
+
+The official sequel to *BiA*. Both *Crossfire* and *BiA* were released within 2012. Not to mention all the DLC's, that were also released in the same year. So, judging just from the raw numbers, do you really expect this to be an original, innovative, high quality game?
+As with *BiA*, this isn't really a shitty game, but compared to *JA2*, it's safe to call it pale and soulless.
+
+## 22. Jagged Alliance 2 Stracciatella continued (2013)
+
+![Logo: Bitbucket](img/history/stracc1.jpg)
+
+| AKA | Developer | Status |
+| --- | --- | --- |
+| --- | gennady | unofficial patch and modding platform for JA2 |
+
+gennady continued the Stracciatella project and started JA2 Stracciatella continued on Bitbucket.
+
+## 23. Jagged Alliance: Flashback (2014)
+
+![Boxart: JA: Flashback](img/history/flashback.jpg)
+
+| AKA | Developer | Status |
+| --- | --- | --- |
+| Flashback, JA:F | Full Control | official game |
+
+Game developer Full Control bought the Jagged Alliance franchise in 2013 and started what is so far the latest attempt at making a worthy sequel to *JA2*. 
+Interestingly, this game was partly crowdfunded on Kickstarter and backed with $368.614. It's the first game in the Jagged Alliance franchise to be crowdfunded.
+Unfortunately, this game could neither convince the fanbase, nor was it a commercial success in general. Several features which were supposed to be added to the game post-release were not realized.
+Once more, Jagged Alliance got a sequel of mediocre quality which looks, plays and feels like a watered-down version of *JA2* with improved graphics. To put it in one (sad) word: **FAIL!**
+
+## 24. Jagged Alliance Online: Reloaded (2015)
+
+![Logo: JAO:Reloaded](img/history/jaonlinereloaded.jpg)
+
+| AKA | Developer | Status |
+| --- | --- | --- |
+| JAO:Reloaded, JAO:R | Cliffhanger Productions | official game |
+
+This is basically the same game as *JAO*, but it changed from a free2play title to a classic buy2play game.
+This is definitely a huge step forward, but this game is nevertheless not good. There are some DLC's available, which doesn't help at all. *JAO* and *JAO:R* are probably the most obscure titles in this list.
+
+## 25. Jagged Alliance 2 Stracciatella continued continued
+
+![Logo: JAO:Reloaded](img/history/jaonlinereloaded.jpg)
+
+| AKA | Developer | Status |
+| --- | --- | --- |
+| JAO:Reloaded, JAO:R | Cliffhanger Productions | official game |
+
+This is basically the same game as *JAO*, but it changed from a free2play title to a classic buy2play game.
+This is definitely a huge step forward, but this game is nevertheless not good. There are some DLC's available, which doesn't help at all. *JAO* and *JAO:R* are probably the most obscure titles in this list.
