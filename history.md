@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# History
+# History of Jagged Alliance
 
 Okay, so you've played the hell out of *Jagged Alliance 2* and it's add-on, *Unfinished Business*. You've at least heard of or seen some screenshots of *Jagged Alliance 1*. Finally, you took a glance at this new game called *Jagged Alliance: Flashback*, and thought "meh".
 
