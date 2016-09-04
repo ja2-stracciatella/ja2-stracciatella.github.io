@@ -38,7 +38,7 @@ By the way, both *JA1* and *DG* were re-released on Steam as the Jagged Alliance
 
 ## 3. Jagged Alliance 2 Demo (1998)
 
-PICTURE
+![Boxart: JA2 full release German version](img/history/ja2.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ The Demo is based on the Beta version of what would be the full release of *JA2*
 
 ## 4. Jagged Alliance 2 (1999)
 
-PICTURE
+![Boxart: JA2 Linux version](img/history/ja2_2.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ JA2 was first released for Windows and later ported to Linux by Tribsoft in 2000
 
 ## 5. Jagged Alliance 2: Unfinished Business (2001)
 
-PICTURE
+![Boxart: UB US version](img/history/ub.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -76,7 +76,7 @@ Similar to *DG*, *UB* was widely regarded as just some sort of mission-pack to *
 
 ## 6. Deidranna Lives! (2001)
 
-PICTURE
+![Deidranna Lives!](img/history/dl.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -88,7 +88,7 @@ Apart from its technical aspects, it was, and of course still is, also fun to pl
 
 ## 7. Jagged Alliance 2 v1.12 (Gold Pack) (2002)
 
-PICTURE
+![Boxart: US version](img/history/ja2-gold.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -103,7 +103,7 @@ Things can be a bit confusing here, because the Gold version can only be identif
 
 ## 8. Vietnam: SOG'69 (2002)
 
-PICTURE
+![Titlescreen: SOG'69 polish version](img/history/sog.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -116,14 +116,14 @@ The amount of content and it's high level of immersion is second to none. This m
 
 ## 9. Sirtech Canada Ltd. goes bankrupt (2003)
 
-PICTURE
+![Logo: Sirtech Canada](img/history/sirtech.jpg)
 
 This fatal event can be regarded as a turning point in the history of Jagged Alliance.
 Sirtech Canada Ltd. was the last division of Sir-Tech, Inc., which was the publisher and/or developer of the whole Jagged Alliance franchise so far. Concerning official sequels, thing really went downhill from here on.
 
 ## 10. Urban Chaos (2003)
 
-PICTURE
+![Titlescreen: Urban Chaos](img/history/uc.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -134,7 +134,7 @@ PICTURE
 
 ## 11. Jagged Alliance 2: Wildfire (2004)
 
-PICTURE
+![Boxart: WF German version](img/history/wf.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -150,14 +150,14 @@ As with *JA2 Gold*, things are a bit confusing here. Basically, there are three 
 
 ## 12. JA2's sourcecode is released (2004)
 
-PICTURE
+![Boxart: JA2 full release Russian version](img/history/ja2_3.jpg)
 
 The sourcecode is the basis for the *JA2 Stracciatella* project and many other great mods, including *v1.13*. It was released together 
 with *WF*. The Source was released with a license that basically allows modders to create non-commercial projects with it.
 
 ## 13. Jagged Alliance 2 v1.13 (2005)
 
-PICTURE
+![Titlescreen: JA2 v1.13](img/history/v1.13.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -171,7 +171,7 @@ tons of new items, a weather-system, a new AP-system, a new CtH-system, possibil
 
 ## 14. Brigade E5: New Jagged Union (2005)
 
-PICTURE
+![Boxart: Brigade E5 German version](img/history/ja2.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
