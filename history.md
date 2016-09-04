@@ -293,13 +293,32 @@ Once more, Jagged Alliance got a sequel of mediocre quality which looks, plays a
 This is basically the same game as *JAO*, but it changed from a free2play title to a classic buy2play game.
 This is definitely a huge step forward, but this game is nevertheless not good. There are some DLC's available, which doesn't help at all. *JAO* and *JAO:R* are probably the most obscure titles in this list.
 
-## 25. Jagged Alliance 2 Stracciatella continued continued
+## 25. Jagged Alliance 2 Stracciatella continued continued (2016)
 
-![Logo: JAO:Reloaded](img/history/jaonlinereloaded.jpg)
+![Logo: GitHub](img/history/github.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| JAO:Reloaded, JAO:R | Cliffhanger Productions | official game |
+| --- | JA2 Stracciatella team | unofficial patch and modding platform for JA2 |
 
-This is basically the same game as *JAO*, but it changed from a free2play title to a classic buy2play game.
-This is definitely a huge step forward, but this game is nevertheless not good. There are some DLC's available, which doesn't help at all. *JAO* and *JAO:R* are probably the most obscure titles in this list.
+The team behind JA2 Stracciatella has regrouped and the project has moved to GitHub. A lot is happening right now and lots of progress is being made. Let's see where the future will get *JA2* and the Stracciatella project!
+
+## 26. Jagged Alliance 3
+
+![Logo: JA3](img/history/ja3.jpg)
+
+*Jagged Alliance 3*, an official, direct sequel to JA2 is the game that never happened. There were some serious attempts, including one made by Sirtech Canada itself and the one by GFI, which later became *Hired Guns: The Jagged Edge*.
+Not only is there no game out there that is called *Jagged Alliance 3*, but (more importantly) there is also no sequel so far that managed to satisfy the fans of the series and/or be a general success.
+
+## Add-on: Other games worth mentioning
+
+There are several games out there which share some or in some cases even lots of gameplay-elements with *JA2* without being unofficial sequels or "spiritual successors". Basically, almost any game that features squad-based tactical battles, preferably with a military theme, has some resemblance to *JA2*.
+Here's a short and incomplete list of games similar to *JA2*:
++ [Fallout Tactics: BoS](http://www.mobygames.com/game/windows/fallout-tactics-brotherhood-of-steel)
++ [Marauder](http://www.mobygames.com/game/windows/marauder___)
++ [Sabre Team](http://www.mobygames.com/game/sabre-team)
++ [Shadow Company: Left for Dead](http://www.mobygames.com/game/windows/shadow-company-left-for-dead)
++ [Silent Storm series](http://www.mobygames.com/game-group/silent-storm-universe)
++ [Wages of War: The Business of Battle](http://www.mobygames.com/game/windows/wages-of-war-the-business-of-battle)
++ [Wasteland series](http://www.mobygames.com/game-group/wasteland-series)
++ [X-Com series](http://www.mobygames.com/game-group/x-com-series)
