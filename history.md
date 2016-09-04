@@ -4,9 +4,9 @@ layout: page
 
 # History
 
-Okay, so you've played the hell out of *Jagged Alliance 2* and it's add-on, *Unfinished Business*. You've at least heard of or seen some screenshots of *Jagged Alliance 1*. Finally, you took a glance at this game called *Jagged Alliance: Flashback*, and thought "meh".
+Okay, so you've played the hell out of *Jagged Alliance 2* and it's add-on, *Unfinished Business*. You've at least heard of or seen some screenshots of *Jagged Alliance 1*. Finally, you took a glance at this new game called *Jagged Alliance: Flashback*, and thought "meh".
 
-While this probably sums up the Jagged Alliance experience of many players, there are actually several more games to explore in the Jagged Alliance universe. Most of them were quickly forgotten after release and none of them got the same level of attention as Jagged Alliance 2.
+While this probably sums up the Jagged Alliance experience of many players, there are actually several more games to explore in the Jagged Alliance universe. None of them got the same level of attention as Jagged Alliance 2 and most of them were quickly forgotten after release.
 
 Let's take a trip down memory lane and look at all the official and unofficial Jagged Alliance games and some of the major mods. How many will you recognize?
 
@@ -25,7 +25,7 @@ Speaking of age, these were the old days of PC-gaming, even before Windows 95. J
 
 ## 2. Jagged Alliance: Deadly Games (1995)
 
-PICTURE
+![Boxart: DG US version](img/history/dg.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
