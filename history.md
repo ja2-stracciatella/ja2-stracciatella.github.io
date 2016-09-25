@@ -182,7 +182,7 @@ This game started as a fan-project, titled Project E5. After several years of de
 *Brigade: E5* is the first game in a series of sequels, successors and spin-offs that all try to either be a remake of JA2 or a sequel to it. It's also the first "modern" (modern = after *JA2*) game in the Jagged Alliance universe.
 *Brigade E5* features some good 3D graphics for its time. And that's about the most positive thing there is to say about this game. On the bad side, it's full of bugs and the gameplay is mediocre at best.
 
-## 15. Jagged Alliance 2 Stracciatella (since 2006)
+## 15. Jagged Alliance 2 Stracciatella (2006)
 
 PICTURE
 
