@@ -156,7 +156,7 @@ As with *JA2 Gold*, things are a bit confusing here. Basically, there are three 
 The sourcecode is the basis for the *JA2 Stracciatella* project and many other great mods, including *v1.13*. It was released together 
 with *WF*. The Source was released with a license that basically allows modders to create non-commercial projects with it.
 
-## 13. Jagged Alliance 2 v1.13 (2005)
+## 13. Jagged Alliance 2 v1.13 (since 2005)
 
 ![Titlescreen: JA2 v1.13](img/history/v1.13.jpg)
 
@@ -182,7 +182,7 @@ This game started as a fan-project, titled Project E5. After several years of de
 *Brigade: E5* is the first game in a series of sequels, successors and spin-offs that all try to either be a remake of JA2 or a sequel to it. It's also the first "modern" (modern = after *JA2*) game in the Jagged Alliance universe.
 *Brigade E5* features some good 3D graphics for its time. And that's about the most positive thing there is to say about this game. On the bad side, it's full of bugs and the gameplay is mediocre at best.
 
-## 15. Jagged Alliance 2 Stracciatella (2006)
+## 15. Jagged Alliance 2 Stracciatella (since 2006)
 
 PICTURE
 
