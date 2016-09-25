@@ -146,6 +146,7 @@ As with *JA2 Gold*, things are a bit confusing here. Basically, there are three 
 + old releases ≤4, which are free mods
 + version 5, which is a commercial release
 + version 6, which is a different commercial release
+
 *WF* got mixed reviews at best. It's main issues are the unbalanced gameplay, the large number of bugs and the fact that it runs on the *JA2* engine. While the engine was modified, it was nevertheless absolutely outdated when *WF* came out.
 
 ## 12. JA2's sourcecode is released (2004)
