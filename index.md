@@ -20,4 +20,4 @@ The map editor is now integrated into the game. Start it like this: `ja2.exe -ed
 
 The best way to contribute is to make a pull request with a bug fix. Please see list of open issues [here](https://github.com/ja2-stracciatella/ja2-stracciatella/issues).
 
-The second best way is to file a bug report if you encounter a bug.
+The second best way is to file a bug report if you encounter a bug or help with retesting issues [where we need more info](https://github.com/ja2-stracciatella/ja2-stracciatella/labels/retest).
