@@ -256,7 +256,7 @@ My DLC-rant aside, this game and it's sequel are probably the best "modern" game
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| BiA | Coreplay | sequel to BiA |
+| --- | Coreplay | sequel to BiA |
 
 The official sequel to *BiA*. Both *Crossfire* and *BiA* were released within 2012. Not to mention all the DLC's, that were also released in the same year. So, judging just from the raw numbers, do you really expect this to be an original, innovative, high quality game?
 As with *BiA*, this isn't really a bad game, but compared to *JA2*, it's safe to call it pale and soulless.
@@ -309,7 +309,7 @@ The team behind JA2 Stracciatella has regrouped and the project has moved to Git
 
 ![Logo: JA3](img/history/ja3.jpg)
 
-*Jagged Alliance 3*, an official, direct sequel to JA2 is the game that never happened. There were some serious attempts, including one made by Sirtech Canada itself and the one by GFI, which later became *Hired Guns: The Jagged Edge*.
+*Jagged Alliance 3*, an official, direct sequel to *JA2* is the game that never happened. There were some serious attempts, including one made by Sirtech Canada itself and the one by GFI, which later became *Hired Guns: The Jagged Edge*.
 Not only is there no game out there that is called *Jagged Alliance 3*, but (more importantly) there is also no sequel so far that managed to satisfy the fans of the series and/or be a general success.
 
 ## Add-on: Other games worth mentioning
