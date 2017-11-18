@@ -32,3 +32,18 @@ Further command line options are available. To list available options run
 
 - `ja2.exe -help` on Windows.
 - `ja2 -help` on Linux or OS X.
+
+# Extra Hotkeys
+
+Besides the hotkeys present in the original game, JA2S adds the following for greater ease of use:
+- scroll lock: toggle mouse grab in windowed mode
+- alt-r: reload held weapon
+- ctrl-l: load game during enemy/militia turn
+- ctrl-n: switch between day and night head gear (goggles) for the whole squad
+- ctrl-q: swap hand items 
+- shift-j: climb through open window
+
+These require you toggle a game.json switch:
+- d: switch to turnbased mode from realtime
+
+Additionally you can use the middle mouse button to make a merc look into the direction of the cursor.
