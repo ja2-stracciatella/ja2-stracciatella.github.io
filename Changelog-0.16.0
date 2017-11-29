@@ -1,0 +1,56 @@
+---
+layout: post
+title: Release 0.16.0
+---
+
+The Jagged Alliance 2 Stracciatella team is proud to present a major
+new release. A long time in the making, it includes several new
+features, plenty of bugfixes compared to previous versions and the
+original game, and more work in externalizing and cleaning up the old
+code base.
+
+Through **TODO WWW commits XX bugs were fixed, of those YY vanilla and ZZ**
+unknown.
+
+__New Features__:
+
+- A [GUI launcher](https://ja2-stracciatella.github.io/#gui-launcher)
+- Dead is Dead mode:
+  [documentation](https://ja2-stracciatella.github.io/#dead-is-dead-mode)
+- 4 new bunbled optional
+  [mini-mods](https://ja2-stracciatella.github.io/#bundled-optional-mini-mods):
+  honest IMP questions, Generous Rebels, O Fortuna, From Russia With
+  Love
+- The game window is now resizable, which enables software pixel scaling
+- A few fixes and tweaks cherry-picked from 1.13
+- Configuration is now stored in a json file; your old one will be
+  imported
+- game.json is now full of comments and easier to find and tweak
+  **TODO: docs**
+
+We are shipping pre-built packages for Ubuntu, Windows and
+OS X. This should help users to easily get started with Jagged Alliance
+2 Stracciatella. For the explorers we also have automatic nightly
+builds.
+
+__Download__:
+[http://ja2-stracciatella.github.io/download/](http://ja2-stracciatella.github.io/download/)
+
+__Build changes__:
+ - the build system is now based on cmake
+ - JA2S now uses several updated dependencies, including SDL2
+ - FLTK is required if you want to have the GUI launcher
+ - rust is required, but cmake will take care of the extra modules
+
+_Warning_: SDL 2.0.6 is known to be buggy, so use a newer or older
+version. Otherwise we will disable all audio if we detect it!
+
+From the next release onward, the project will start using c++11
+features. Let us know if you're stuck with an ancient compiler.
+
+__Full Changelog__:
+
+**TODO**
+- Feature:
+- Bugfix: End of meanwhile cutscene crash (#198)
+
