@@ -129,9 +129,9 @@ __Full Changelog__:
  - Enhancement: New Game Mode Proposal: Dead is Dead (#308)
  - Bugfix: Shipping cost BR not redrawn properly (#394)
  - Enhancement: Make music modable to increase music variety (#386)
- - Bugfix: Bad Performance in OS X (#319)
  
  **Page 4**
+ - Bugfix: Bad Performance in OS X (#319)
  - Enhancement: Update to SDL2 (#216)
  - Bugfix: Fix autoresolve crash (#381)
  - Bugfix: Only check retreat conditions for valid sectors (#374)
