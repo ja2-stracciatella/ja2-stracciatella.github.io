@@ -80,6 +80,7 @@ __Full Changelog__:
  - Merc forgets his stance after jumping on a roof (#84)
  - Climbing makes mercs visible at night (#402)
  - Throwing knife flying animation messed up (#395)
+ 
  **Page 2**
  - Cheat: alt+o damages bloodcats now (#583)
  - Passive bloodcat ambush fix (#584)
@@ -106,6 +107,7 @@ __Full Changelog__:
  - Remove #ifdef JA2 (#471)
  - Consider removing JA2TESTVERSION (#472)
  - JA 10 - Think about removing JA2BETAVERSION (#470)
+ 
  **Page 3**
  - ja2.ini: move to json (#291)
  - setting options in ja2.ini (#298)
@@ -132,6 +134,7 @@ __Full Changelog__:
  - Shipping cost BR not redrawn properly (#394)
  - Request: more music variety (#386)
  - Bad Performance in OS X (#319)
+ 
  **Page 4**
  - Update to SDL2 (#216)
  - autoresolve crash (#381)
