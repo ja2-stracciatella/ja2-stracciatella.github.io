@@ -49,11 +49,6 @@ features. Please let us know if you're stuck with an ancient compiler that doesn
 
 __Full Changelog__:
 
-**TODO**
-- Feature:
-- Bugfix: End of meanwhile cutscene crash (#198)
-
-
 **Page 1**
  - Bugfix: Game speed is generally slow (#99)
  - Feature: Add extra item combinations (#623)
