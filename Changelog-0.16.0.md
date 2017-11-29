@@ -104,6 +104,7 @@ __Full Changelog__:
  - Maintenance: Remove #ifdef JA2BETAVERSION code (#470)
  
  **Page 3**
+ - Maintenance: Reorganize source tree (#455)
  - Enhancement: ja2.ini: move to json (#291)
  - Enhancement: setting options in ja2.ini (#298)
  - Enhancement: Change name of the user folder? (#164)
