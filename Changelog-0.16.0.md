@@ -24,7 +24,7 @@ __New Features__:
 - The game window is now resizable, which enables software pixel scaling
 - Some fixes and tweaks cherry-picked from 1.13
 - Configuration is now stored in a JSON file. 
-- Comments have been added to the configuration file making it easier to tweak. It is easier to find, too.
+- Comments have been added to the configuration file making it easier to tweak.
   **TODO: docs**
 
 We are shipping pre-built packages for Ubuntu, Windows and
@@ -48,8 +48,6 @@ From the next release onward, the project will start using C++11
 features. Please let us know if you're stuck with an ancient compiler that doesn't support this standard.
 
 __Full Changelog__:
-
-**Page 1**
  - Bugfix: Game speed is generally slow (#99)
  - Feature: Add extra item combinations (#623)
  - Bugfix: Do not increase shots fired statistic without a live target (#622)
@@ -75,8 +73,6 @@ __Full Changelog__:
  - Feature: Merc forgets his stance after jumping on a roof (#84)
  - Bugfix: Climbing makes mercs visible at night (#402)
  - Bugfix: Throwing knife flying animation messed up (#395)
- 
- **Page 2**
  - Bugfix: Cheat: alt+o damages bloodcats now (#583)
  - Bugfix: Passive bloodcat ambush fix (#584)
  - Bugfix: Helicopter is ignored by pathfinding (#317)
@@ -102,8 +98,6 @@ __Full Changelog__:
  - Maintenance: Remove #ifdef JA2 code (#471)
  - Maintenance: Remove #ifdef JA2TESTVERSION code (#472)
  - Maintenance: Remove #ifdef JA2BETAVERSION code (#470)
- 
- **Page 3**
  - Maintenance: Reorganize source tree (#455)
  - Enhancement: ja2.ini: move to json (#291)
  - Enhancement: setting options in ja2.ini (#298)
@@ -129,8 +123,6 @@ __Full Changelog__:
  - Enhancement: New Game Mode Proposal: Dead is Dead (#308)
  - Bugfix: Shipping cost BR not redrawn properly (#394)
  - Enhancement: Make music modable to increase music variety (#386)
- 
- **Page 4**
  - Bugfix: Bad Performance in OS X (#319)
  - Enhancement: Update to SDL2 (#216)
  - Bugfix: Fix autoresolve crash (#381)
