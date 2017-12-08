@@ -21,11 +21,10 @@ __New Features__:
   [mini-mods](https://ja2-stracciatella.github.io/#bundled-optional-mini-mods):
   Honest IMP Questions, Generous Rebels, O Fortuna, From Russia With
   Love
-- The game window is now resizable, which enables software pixel scaling
-- Some fixes and tweaks cherry-picked from 1.13
-- Configuration is now stored in a JSON file. 
+- The game window is now resizable, which enables software pixel scaling.
+- Some fixes and tweaks cherry-picked from 1.13.
+- Configuration is now stored in a JSON file.
 - Comments have been added to the configuration file making it easier to tweak.
-  **TODO: docs**
 
 We are shipping pre-built packages for Ubuntu, Windows and
 OS X. This should help users to easily get started with Jagged Alliance
