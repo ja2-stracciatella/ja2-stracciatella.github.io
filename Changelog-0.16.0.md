@@ -27,7 +27,7 @@ __New Features__:
 We are shipping pre-built packages for Ubuntu, Windows and
 OS X. This should help users to easily get started with Jagged Alliance
 2 Stracciatella. For users willing to take a risk we provide automatically created [nightly
-builds](http://builds-ja2.stefanlau.com/nightlies/)
+builds](http://builds-ja2.stefanlau.com/nightlies/).
 
 __Download__:
 [http://ja2-stracciatella.github.io/download/](http://ja2-stracciatella.github.io/download/)
