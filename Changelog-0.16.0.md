@@ -128,6 +128,7 @@ __Full Changelog__:
  - Enhancement: Add “IMP Quiz Honest Answers” mini mod (#303)
  - Enhancement: Simplify moving to the next sector in tactical view (windowed mode) (#314)
  - Enhancement: Add “Generous Rebels” mini mod (#305)
+ - Maintenance: Explicitly initialize MovementMode (#635)
  - Maintenance: Fix “Release mode” linking and deb file permissions (#634)
  - Maintenance: Make CIs automatically build release packages (#632)
  - Maintenance: Refactor build system and update documentation (#629)
