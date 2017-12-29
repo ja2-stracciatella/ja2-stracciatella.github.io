@@ -2,6 +2,12 @@
 layout: page
 ---
 
+- [How to Run](#how-to-run)
+  * [With the optional launcher](#with-the-optional-launcher)
+  * [Without the optional launcher](#without-the-optional-launcher)
+- [Extra configuration and modding](#extra-configuration-and-modding)
+- [Extra Hotkeys](#extra-hotkeys)
+
 # How to Run
 
 1. Install original Jagged Alliance 2 game on your computer.  Data files from the original game will be used by JA2-Stracciatella. If you're installing the linux port, make sure to copy over files from CD2 too.
