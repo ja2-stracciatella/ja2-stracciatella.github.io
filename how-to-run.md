@@ -42,6 +42,11 @@ Further command line options are available. To list available options run
 - `ja2.exe -help` on Windows.
 - `ja2 -help` on Linux, BSD or OS X.
 
+## Extra configuration and modding
+Advanced users can tweak additional options and make minor modifications by changing the values in their [game.json](https://raw.githubusercontent.com/ja2-stracciatella/ja2-stracciatella/master/assets/externalized/game.json).
+
+The project extracted many other hardcoded values from the original sources into editable text files stored in the [assets/externalized](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/assets/externalized) directory. You can edit weapons, ammo, shops, enemy weapon choices and much more!
+
 # Extra Hotkeys
 
 Besides the hotkeys present in the original game, JA2S adds the following for greater ease of use:
