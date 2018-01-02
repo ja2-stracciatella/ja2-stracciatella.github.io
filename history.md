@@ -18,7 +18,7 @@ Let's find out by taking a look at all the official and unofficial Jagged Allian
 | --- | --- | --- |
 | Jagged Alliance 1, JA1 | Madlab Software | official game |
 
-The first game in the series that started it all. *JA1* features gameplay similar to *JA2* with an extensive, sandbox-ish singleplayer campaign. Today, the first game in the series is by far less popular than it's successor and it hasn't aged quite as well. However, *JA1* is still a very interesting game and the roots of what makes *JA2* so great can be found all over the place. This includes many of the memorable characters and the high level of cheesiness.
+The first game in the series that started it all. *JA1* features similar to *JA2* with an extensive, sandbox-ish singleplayer campaign. Today, the first game in the series is by far less popular than it's successor and it hasn't aged quite as well. However, *JA1* is still a very interesting game and the roots of what makes *JA2* so great can be found all over the place. This includes many of the memorable characters and the high level of cheesiness.
 Speaking of ageing, these were the old days of PC-gaming, even before Windows 95. *JA1* is a DOS game.
 
 ## 2. Jagged Alliance: Deadly Games (1995)
@@ -185,13 +185,13 @@ This game started as a fan-project, titled *Project E5*. After some years of dev
 
 ## 15. Jagged Alliance 2 Stracciatella (2006)
 
-PICTURE
+![changelog: JA2 Stracciatella](img/history/stracc.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| JA2 Stracciatella | Tron | unofficial patch and modding platform for JA2 |
+| JA2 Stracciatella, Stracc | Tron | unofficial patch and modding platform for JA2 |
 
-*JA2 Stracciatella* was started by Tron and run by him solo for a loooong time. Besides the *v1.13 mod*, *JA2 Stracciatella* is the biggest mod with the longest and steadiest development time for *JA2*. Since it's very beginning, the goal of "JA2 Stracciatella" was to modernize and improve the game, without altering it's gameplay.
+*JA2 Stracciatella* was started by Tron and run by him solo for a loooong time. Besides the *v1.13 mod*, *JA2 Stracciatella* is the biggest mod with the longest and steadiest development time for *JA2*. Since it's very beginning, the goal of *JA2 Stracciatella* was to modernize and improve the game, without altering its gameplay.
 
 ## 16. Hired Guns: The Jagged Edge (2007)
 
@@ -201,9 +201,9 @@ PICTURE
 | --- | --- | --- |
 | Jazz: Hired Guns | GFI | unofficial sequel / "spiritual" successor |
 
-Russian developer GFI was commissioned to develop two Jagged Alliance games by the IP holder of the Jagged Alliance franchise, Strategy First. These two games were supposed to be Jagged Alliance 3, a sequel to *JA2*, and Jagged Alliance 3D, a remake of *JA2*, just with better graphics.
-To cut a long and strange story short: Things went horribly wrong. In the end, no official sequel or remake were developed by GFI and Strategy First withdrew the rights on the JA franchise from GFI. What we got in the end was *Jazz: Hired Guns*, later renamed to *Hired Guns: The Jagged Edge*. This game was originally developed to be Jagged Alliance 3D. But since GFI had no rights on the IP anymore, the game was renamed.
-And how does it play? – The very first impression is "*JA2* with a new graphic engine". Sounds good so far. However, there is also a bad AI, frustrating gameplay and a bunch of bugs. Like many games on this list, *Hired Guns: The Jagged Edge* underwent a troubled development, which concluded in a strange and dubious release. It quickly drifted off into obscurity.
+In the mid-2000s, Russian developer GFI was commissioned to develop two *Jagged Alliance* games by the IP holder of the *Jagged Alliance* franchise, Strategy First. These two games were supposed to be *Jagged Alliance 3*, a sequel to *JA2*, and *Jagged Alliance 3D*, a remake of *JA2*, just with better graphics.
+To cut a long and strange story short: Things went horribly wrong. In the end, no official sequel or remake were developed by GFI and Strategy First withdrew the rights on the *Jagged Alliance* franchise from GFI. What we got in the end was *Jazz: Hired Guns*, later renamed to *Hired Guns: The Jagged Edge*. This game was originally developed to be *Jagged Alliance 3D*. But since GFI had no rights on the IP anymore, the game was renamed.
+And how does it play? – The very first impression is "*JA2* with a new graphic engine". Sounds good so far. However, it also features a bad AI, frustrating gameplay and a bunch of bugs. Like many games on this list, *Hired Guns: The Jagged Edge* underwent a troubled development, which concluded in a strange and dubious release. It quickly drifted off into obscurity.
 
 ## 17. 7.62: High Calibre (2007 / 2008)
 
@@ -224,7 +224,7 @@ Overall, it's an okay-ish game. Maybe it would have been perceived more positive
 | --- | --- | --- |
 | JA1 DS | Cypron Studios, Strategy First | official re-release of JA1 |
 
-This is mostly just a re-release of the original *JA1*. Some minor gameplay elements were changed. While this whole project was definitely a very nice idea, it also showed, how badly the first Jagged Alliance game has aged.
+This is mostly just a re-release of the original *JA1*. Some minor gameplay elements were changed. While this whole project was definitely a very nice idea, it also showed, how badly the first *Jagged Alliance* game has aged.
 And by badly aged, I'm not referring to the graphics, but to the controls and interface, which are by far less userfriendly than in *JA2*.
 Now, if they would have ported *JA2*, that would have been truly amazing!
 
@@ -237,7 +237,7 @@ Now, if they would have ported *JA2*, that would have been truly amazing!
 | JAOnline, JAO | Cliffhanger Productions | official game |
 
 An average free2play AKA pay2win multiplayer online game with the Jagged Alliance name on it. A new low-point for the franchise.
-This game is not available anymore. *Jagged Alliance Online* has been converted into *Jagged Alliance Online: Reloaded* in 2015.
+This game is not available anymore. *Jagged Alliance Online* has been converted into *Jagged Alliance Online: Reloaded* in 2015. More about this later...
 
 ## 20. Jagged Alliance: Back in Action (2012)
 
@@ -247,7 +247,7 @@ This game is not available anymore. *Jagged Alliance Online* has been converted 
 | --- | --- | --- |
 | BiA | Coreplay | official game, remake of JA2 |
 
-A remake of *JA2*. While it's not really a shitty game, the only new and innovative thing *BiA* brought to the Jagged Alliance franchise besides better graphics is: DLC's. And thinking about it... this is in fact a very shitty thing.
+A remake of *JA2*. While it's not really a bad game, the only new and innovative thing *BiA* brought to the *Jagged Alliance* franchise besides better graphics is: DLC's. And thinking about it... this is in fact a very bad thing.
 My DLC-rant aside, this game and it's sequel are probably the best "modern" games with the Jagged Alliance name on them. Of course, this doesn't mean very much, since the competition with everything on this list after *JA2* is rather weak.
 
 ## 21. Jagged Alliance: Crossfire (2012)
@@ -269,7 +269,7 @@ As with *BiA*, this isn't really a bad game, but compared to *JA2*, it's safe to
 | --- | --- | --- |
 | --- | gennady | unofficial patch and modding platform for JA2 |
 
-It had become a bit quiet around the *Stracciatella* project. gennady continued the Stracciatella project and started *JA2 Stracciatella continued* on Bitbucket. He managed to breathe new life into the project and lots of progress was made.
+It had become a bit quiet around the *Stracciatella* project. Keeping a project alive for such a long time with a very limited number of contributors is no easy task. gennady continued the Stracciatella project and started *JA2 Stracciatella continued* on Bitbucket. He managed to breathe new life into the project and lots of progress was made.
 
 ## 23. Jagged Alliance: Flashback (2014)
 
@@ -280,8 +280,7 @@ It had become a bit quiet around the *Stracciatella* project. gennady continued 
 | Flashback, JA:F | Full Control | official game |
 
 Game developer Full Control bought the Jagged Alliance franchise in 2013 and started what is so far the latest attempt at making a worthy sequel to *JA2*. 
-Interestingly, this game was partly crowdfunded on Kickstarter and backed with $368.614. It's the first game in the Jagged Alliance franchise to be crowdfunded.
-Unfortunately, this game could neither convince the fanbase, nor was it a crritical or commercial success in general. Several features which were supposed to be added to the game post-release were not realized.
+Interestingly, this game was partly crowdfunded on Kickstarter and backed with $368.614. It's the first game in the Jagged Alliance franchise to be crowdfunded. Unfortunately, this game could neither convince the fanbase, nor was it a critical or commercial success in general. Several features which were supposed to be added to the game post-release were not realized. Needless to mention that Full Control games went bancrupt shortly after the release... a common pattern when dealing with the *Jagged Alliance* franchise...
 Once more, *Jagged Alliance* got a sequel of mediocre quality which looks, plays and feels like a watered-down version of *JA2* with improved graphics. To put it in one (sad) word: **FAIL!**
 
 ## 24. Jagged Alliance Online: Reloaded (2015)
@@ -303,7 +302,7 @@ This is definitely a huge step forward, but this game is nevertheless not good. 
 | --- | --- | --- |
 | --- | JA2 Stracciatella team | unofficial patch and modding platform for JA2 |
 
-The team behind JA2 Stracciatella has regrouped and the project has moved to GitHub. A lot is happening right now and lots of progress is being made. Let's see where the future will get *JA2* and the Stracciatella project!
+The team behind JA2 Stracciatella has regrouped and the project has moved to GitHub. A lot is happening right now and lots of progress is being made. The new team managed to release several new versions, the latest being 0.16.0: Apart from several bugfixes, this version also has some great new features, including a new game mode, exclusive to *JA2 Stracciatella*. Let's see where the future will get *JA2* and the Stracciatella project!
 
 ## 26. Jagged Alliance 3
 
