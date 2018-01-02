@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Jagged Alliance 2 Stracciatella
 ---
 
 ## Features
