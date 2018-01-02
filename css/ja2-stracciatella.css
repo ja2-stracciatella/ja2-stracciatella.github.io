@@ -18,3 +18,9 @@ a, p a {
 a:hover, a:focus, p a:hover, p a:focus, .post-preview a:hover, .post-preview a:focus {
   color: #e79408;
 }
+
+.avatar-img-heading {
+  border-radius: 50%;
+  max-height: 200px;
+  margin-top: 2em;
+}
