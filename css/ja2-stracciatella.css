@@ -29,12 +29,9 @@ a:hover, a:focus, p a:hover, p a:focus, .post-preview a:hover, .post-preview a:f
   border-radius: 50%;
   max-height: 50px;
   float: left;
+  margin-right: 15px; /* to offset navbar-brand's left margin */
 }
 
 .top-nav-short .avatar-img-navbar {
   border-radius: 0%;
-}
-
-.navbar > .container-fluid .navbar-brand {
-  margin-left: 0px;
 }
