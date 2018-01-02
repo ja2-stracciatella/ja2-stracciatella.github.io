@@ -4,15 +4,13 @@ layout: page
 
 # History of Jagged Alliance
 
-Okay, so you've played the hell out of *Jagged Alliance 2* and it's add-on, *Unfinished Business*. You've at least heard and/or seen some screenshots of *Jagged Alliance 1*. Finally, you took a glance at this new game called *Jagged Alliance: Flashback*, and thought "meh".
+Back in 1999, Jagged Alliance 2, the sequel to Jagged Alliance wa released. It got lots of attention and was rewarded with countless "game of the year" awards. Today, JA2 is still regarded the king of turn-based strategy. Why didn't they make another sequel? What happenned to the franchise?
 
-While this probably sums up the Jagged Alliance experience of many players, there are actually several more games to explore in the Jagged Alliance universe. None of them got the same level of attention as Jagged Alliance 2 and most of them were quickly forgotten after release.
+Let's find out by taking a look at all the official and unofficial Jagged Alliance games and some of the major mods.
 
-Let's take a trip down memory lane and look at all the official and unofficial Jagged Alliance games and some of the major mods. How many will you recognize?
+# Timeline of the Jagged Alliance series
 
-## Timeline of the Jagged Alliance series
-
-### 1. Jagged Alliance (1994)
+## 1. Jagged Alliance (1994)
 
 ![Boxart: JA1 US version](img/history/ja1.jpg)
 
@@ -20,8 +18,8 @@ Let's take a trip down memory lane and look at all the official and unofficial J
 | --- | --- | --- |
 | Jagged Alliance 1, JA1 | Madlab Software | official game |
 
-The first game in the series that started it all. *JA1* features gameplay similar to *JA2* with an extensive, sandbox-ish singleplayer campaign. Today, the first game in the series is by far less popular than it's successor and hasn't aged quite as well. However, it's still a very interesting game and the roots of what makes *JA2* so great can be found all over the place. This includes many of the memorable characters and the high level of cheesiness.
-Speaking of ageing, these were the old days of PC-gaming, even before Windows 95. JA1 is a DOS game.
+The first game in the series that started it all. *JA1* features gameplay similar to *JA2* with an extensive, sandbox-ish singleplayer campaign. Today, the first game in the series is by far less popular than it's successor and it hasn't aged quite as well. However, *JA1* is still a very interesting game and the roots of what makes *JA2* so great can be found all over the place. This includes many of the memorable characters and the high level of cheesiness.
+Speaking of ageing, these were the old days of PC-gaming, even before Windows 95. *JA1* is a DOS game.
 
 ## 2. Jagged Alliance: Deadly Games (1995)
 
@@ -29,12 +27,12 @@ Speaking of ageing, these were the old days of PC-gaming, even before Windows 95
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| Jagged Alliance 1.5, DG | Sirtech Canada | official sequel to JA1 |
+| JA 1.5, DG | Sirtech Canada | official sequel to JA1 |
 
 Unlike *JA1*, *DG* is mission-based, offers a multiplayer mode and a map editor. It runs on the same engine as *JA1* and is often referred 
 to as *Jagged Alliance 1.5*.
-When it first came out, *DG* was widely viewed as just an add-on for *JA1* or a mission-pack. This was probably because it looked more or less the same and also shared most of it's content. Nevertheless, it's an original and very special game in the Jagged Alliance series and it's unique playstyle, which includes a multiplayer-mode, hasn't really been duplicated so far.
-By the way, both *JA1* and *DG* were re-released on Steam as the [Jagged Alliance: Gold Edition](http://store.steampowered.com/app/283270/?) in 2014 by bitComposer Games.
+When it first came out, *DG* was widely viewed as just an add-on for *JA1* or a mission-pack. This was probably because it looked more or less the same and also shared most of it's content. Nevertheless, it's an original and very special game in the Jagged Alliance series and its unique playstyle, which includes a multiplayer-mode, hasn't really been duplicated so far.
+By the way, both *JA1* and *DG* were re-released on Steam as the [Jagged Alliance: Gold Edition](http://store.steampowered.com/app/283270/?) in 2015 by THQ Nordic GmbH Games.
 
 ## 3. Jagged Alliance 2 Demo (1998)
 
@@ -48,6 +46,7 @@ In late 1998, *JA2* was already in development for some years. It's release was 
 Two different version of the demo were released: An English version and a German version. Besides the different language, the two versions also featured a different team of mercs.
 The demo is a nice teaser and has some original content, not featured in the full version of the game. Although the explorable area in the demo is rather limited, it still offers a relatively high replay value, just like the full version of the game does.
 The Demo is based on the Beta version of what would be the full release of *JA2*.
+The *JA2 Demo* can be found here: [JA2 Demo](http://kermi.pp.fi/JA_2/Other_Stuff/Demo/).
 
 ## 4. Jagged Alliance 2 (1999)
 
@@ -57,9 +56,9 @@ The Demo is based on the Beta version of what would be the full release of *JA2*
 | --- | --- | --- |
 | JA2 | Sirtech Canada | official game |
 
-*JA2* is still regarded as one of the best turn-based strategy titles ever made. No true sequel to the game that can even roughly reach it's high standards has been created as of today (2017). Most of the popularity and fame, the Jagged Alliance franchise enjoys up to this day, basically derives from this title.
+*JA2* is still regarded as one of the very best turn-based strategy titles ever made. No true successor to the game that can even roughly reach it's high standards has been created as of today (2018). Most of the popularity and fame, the Jagged Alliance franchise enjoys up to this day, basically derives from this title.
 Like with many good games, it's hard to describe what exactly makes *JA2* so great. It's probably the unique way it throws the best parts of several genres into a blender. This includes TBS, RPG, Simulation and more. Add a high level of immersion, high replay value and obvious passion and dedication from the developer's side and you get... JA2!
-JA2 was first released for Windows and later ported to Linux by Tribsoft in 2000.
+*JA2* was first released for Windows and later ported to Linux by Tribsoft in 2000.
 
 ## 5. Jagged Alliance 2: Unfinished Business (2001)
 
@@ -67,12 +66,12 @@ JA2 was first released for Windows and later ported to Linux by Tribsoft in 2000
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| Jagged Alliance 2.5, JA 2.5, UB | Sirtech Canada | official sequel to JA2 |
+| JA 2.5, UB | Sirtech Canada | official sequel to JA2 |
 
 *UB* aka *JA 2.5* runs on the same engine as *JA2*, with some modifications. The gameplay is more or less the same as before, but large portions of *JA2's* features were cut out to offer a more streamlined and action-orientated gameplay. This is especially true for almost the whole strategic part of the game.
 After it's release, this standalone add-on was heavily criticized for it's short campaign and somewhat crippled gameplay. And indeed, veterans of *JA2* are able to complete *UB's* campaign in a single session, lasting only a few hours. *UB* also suffers from a horrible localization. A fact, which becomes even more obvious since *JA2's* localization was excellent.
 However, despite all criticism, *UB* introduced two great features: The inclusion of the map editor and the possibility to import mercs from *JA2*.
-Similar to *DG*, *UB* was widely regarded as just some sort of mission-pack to its predecessor.
+Similar to *DG*, *UB* was widely regarded as just some sort of mission-pack to its predecessor, leaving the fans hungry for more.
 
 ## 6. Deidranna Lives! (2001)
 
@@ -92,14 +91,14 @@ Apart from its technical aspects, it was, and of course still is, also just fun 
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| JA2 Gold Pak, JA2 1.12 | Sirtech Canada | official re-release of JA2 |
+| JA2 Gold, JA2 Gold Pak, JA2 1.12 | Sirtech Canada | official re-release of JA2 |
 
-2002 brought *JA2* fans the Gold Pack, which is a bundle of both *JA2* and *UB*. But the version of *JA2* from the Gold Pack is not identical with "normal" *JA2*. The *JA2 Gold* version is the definitive version of *JA2*, the holy grail of the Jagged Alliance franchise. What makes the gold version special? – It incorporates all regular patches and has even more bugfixes compared to older versions. But (more importantly) it lso takes some features and modifications from *UB* and incorporates them into *JA2*.
+2002 brought *JA2* fans the Gold Pack, which is a bundle of both *JA2* and *UB*. But the version of *JA2* from the Gold Pack is not identical with "normal" *JA2*. The *JA2 Gold* version is the definitive version of *JA2*, the holy grail of the *Jagged Alliance* franchise. What makes the gold version special? – It incorporates all regular patches and has even more bugfixes compared to older versions. But (more importantly) it lso takes some features and modifications from *UB* and incorporates them into *JA2*.
 Things can be a bit confusing here, because the Gold version can only be identified by it's version number. To make it absolutely clear:
 + Version of JA2 ≤1.06 are "normal" version
 + Version of JA2 ≥1.07 are gold versions.
 + **Normal JA2 can not be patched to the gold version!**
-+ Jagged Alliance v1.12 is the last official release of JA2 Gold.
++ Version 1.12 is the last official release of JA2 Gold.
 *Jagged Alliance 2 Gold* is the ideal basis for *JA2 Stracciatella*!
 
 ## 8. Vietnam: SOG'69 (2002)
@@ -112,15 +111,15 @@ Things can be a bit confusing here, because the Gold version can only be identif
 
 The release of the map editor together with *UB* spawned hundreds of user-made maps and campaigns.
 *SOG'69* is one of the most popular user-made campaigns (if no **the** most popular) for *UB* ever made.
-It takes the player to the Vietnam war, which is a totally new setting for a Jagged Alliance game.
+It takes the player to the Vietnam war, which is a totally new setting for a *Jagged Alliance* game.
 The amount of content and it's high level of immersion is second to none. This mod is an absolute must-play for everyone who owns *UB*.
 
 ## 9. Sirtech Canada Ltd. goes bankrupt (2003)
 
 ![Logo: Sirtech Canada](img/history/sirtech.jpg)
 
-This fatal event can be regarded as a turning point in the history of Jagged Alliance.
-Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publisher and/or developer of every Jagged Alliance game so far. Concerning official sequels, thing really went downhill from here on.
+This fatal event can be regarded as a turning point in the history of *Jagged Alliance*.
+Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publisher and/or developer of every *Jagged Alliance* game so far. Concerning official sequels, thing really went downhill from here on.
 
 ## 10. Urban Chaos (2003)
 
@@ -130,7 +129,7 @@ Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publis
 | --- | --- | --- |
 | UC | JA2 Modsquad | fan-mad mod for JA2 |
 
-*UC* is a true masterpiece and definitely one of the greatest mods for vanilla *JA2*. It's basically a full conversion mod that offers a whole new storyline and a new campaign in a brand-new setting.
+*UC* is a true masterpiece and definitely one of the greatest mods for vanilla *JA2* ever made. It's basically a full conversion mod that offers a whole new storyline and a new campaign in a brand-new setting.
 *UC* is even more impressive when you consider the fact, that it was developed without any access to *JA2's* sourcecode, which was still about to be released.
 
 ## 11. Jagged Alliance 2: Wildfire (2004)
@@ -139,9 +138,9 @@ Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publis
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| WF | i-Deal games | fan-made mod for JA2, eventually turned into an official sequel to JA2|
+| WF | i-Deal games | fan-made mod for JA2 / official sequel to JA2 |
 
-What started as a free mod for *JA2* eventually became a commercial project. The final game isn't a true sequel to *JA2* and feels more like a remake. While the engine and the game's content was altered (e.g. maps, weapons, mercs), the story remains unchanged. 
+What started as a free mod for *JA2* eventually became a commercial project. The final game isn't a true sequel to *JA2* and feels more like a remake. While the engine and the game's content were altered (e.g. maps, weapons, mercs), the story remains unchanged. 
 Because of severe problems between the developer and the publisher, two different commercial versions of this are floating around: v5 and v6, which are completely incompatible: v5 can't be upgraded to v6 and v6-specific patches can't be applied to v5.
 As with *JA2 Gold*, things are a bit confusing here. There are three different releases of *WF*:
 + old releases ≤ version 4, which are free mods
@@ -155,7 +154,7 @@ As with *JA2 Gold*, things are a bit confusing here. There are three different r
 ![Boxart: JA2 full release Russian version](img/history/ja2_3.jpg)
 
 The sourcecode is the basis for the *JA2 Stracciatella* project and many other great mods, including *v1.13*. It was released together 
-with *WF*. The Source was released with a license that basically allows modders to create non-commercial projects with it.
+with *WF*. The sourcecode was released with a license that basically allows modders to create non-commercial projects with it.
 
 ## 13. Jagged Alliance 2 v1.13 (since 2005)
 
@@ -163,13 +162,14 @@ with *WF*. The Source was released with a license that basically allows modders 
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| JA2 v1.13, v1.13, 1.13 | JA2 community | fan-made mod for JA2 and modding platform |
+| JA2 v1.13, v1.13, 1.13 | v1.13 community | fan-made mod for JA2 and modding platform |
 
 The *v1.13 mod* is a massive mod that changes just about every aspect of the game and introduces tons of features. It is impossible to completely list even the most important features here, because there are so many of them.
 Some of the features are:
 tons of new items, a weather-system, a new AP-system, a new CtH-system, possibility to have much bigger maps, all the mercs from 
 *JA1* included, and much more...
 *v1.13* is also a platform for several other mods. Some major mods based on v1.13 include Arulco Folding Stock, AIMNAS and Arulco Revisited.
+[The Bear's Pit Forum](http://thepit.ja-galaxy-forum.com/) is the main hangout for the JA2 v1.13 community.
 
 ## 14. Brigade E5: New Jagged Union (2005)
 
@@ -179,8 +179,8 @@ tons of new items, a weather-system, a new AP-system, a new CtH-system, possibil
 | --- | --- | --- |
 | Brigade E5, E5 | Apeiron | unofficial sequel / "spiritual" successor |
 
-This game started as a fan-project, titled Project E5. After some years of development, Russian publisher 1C bought the project and further development eventually lead us to the game we got.
-*Brigade: E5* is the first game in a series of sequels, successors and spin-offs that all try to either be a remake of JA2 or a sequel to it. It's also the first "modern" (modern = after *JA2*) game in the Jagged Alliance universe.
+This game started as a fan-project, titled *Project E5*. After some years of development, Russian publisher 1C bought the project and further development eventually lead us to the game we got.
+*Brigade: E5* is the first game in a series of sequels, successors and spin-offs that all try to either be a remake of *JA2* or a sequel to it, without calling themselves "JA3". It's also the first "modern" (modern = after *JA2*) game in the *Jagged Alliance* universe.
 *Brigade E5* features some good 3D graphics for its time. And that's about the most positive thing there is to say about this game. On the bad side, it's full of bugs and the gameplay is mediocre at best.
 
 ## 15. Jagged Alliance 2 Stracciatella (2006)
@@ -312,7 +312,7 @@ The team behind JA2 Stracciatella has regrouped and the project has moved to Git
 *Jagged Alliance 3*, an official, direct sequel to *JA2* is the game that never happened. There were some serious attempts, including one made by Sirtech Canada itself and the one by GFI, which later became *Hired Guns: The Jagged Edge*.
 Not only is there no game out there that is called *Jagged Alliance 3*, but (more importantly) there is also no sequel so far that managed to satisfy the fans of the series and/or be a general success.
 
-## Add-on: Other games worth mentioning
+# Add-on: Other games worth mentioning
 
 There are several games out there which share some or in some cases even lots of gameplay-elements with *JA2* without being unofficial sequels or "spiritual successors". Basically, almost any game that features tactical battles with small squads, preferably in turn-based mode and with a military theme, has some resemblance to *JA2*.
 Here's a short and incomplete list of games similar to *JA2*:
