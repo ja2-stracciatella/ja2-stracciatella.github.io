@@ -24,3 +24,17 @@ a:hover, a:focus, p a:hover, p a:focus, .post-preview a:hover, .post-preview a:f
   max-height: 200px;
   margin-top: 2em;
 }
+
+.avatar-img-navbar {
+  border-radius: 50%;
+  max-height: 50px;
+  float: left;
+}
+
+.top-nav-short .avatar-img-navbar {
+  border-radius: 0%;
+}
+
+.navbar-brand {
+  margin-left: 0px;
+}
