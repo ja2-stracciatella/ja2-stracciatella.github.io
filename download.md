@@ -21,4 +21,4 @@ Download previous releases from [Github](https://github.com/ja2-stracciatella/ja
 
 ### Nightlies
 
-Download the current development version here: http://builds-ja2.stefanlau.com/nightlies/
+Download the current development version [here](http://builds-ja2.stefanlau.com/nightlies/).
