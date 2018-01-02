@@ -39,3 +39,7 @@ a:hover, a:focus, p a:hover, p a:focus, .post-preview a:hover, .post-preview a:f
 .navbar > .container-fluid .navbar-brand {
    margin-left: 0px;
  }
+
+.navbar-custom .nav li a {
+  letter-spacing: 0.5px;  
+}
