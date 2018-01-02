@@ -27,11 +27,15 @@ a:hover, a:focus, p a:hover, p a:focus, .post-preview a:hover, .post-preview a:f
 
 .avatar-img-navbar {
   border-radius: 50%;
+  border-radius: 0.5s cubic-bezier(.45,.05,.55,.95);
   max-height: 50px;
   float: left;
-  margin-right: 15px; /* to offset navbar-brand's left margin */
 }
 
 .top-nav-short .avatar-img-navbar {
   border-radius: 0%;
 }
+
+.navbar > .container-fluid .navbar-brand {
+   margin-left: 0px;
+ }
