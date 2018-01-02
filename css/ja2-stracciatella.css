@@ -35,6 +35,6 @@ a:hover, a:focus, p a:hover, p a:focus, .post-preview a:hover, .post-preview a:f
   border-radius: 0%;
 }
 
-.navbar-brand {
+.navbar > .container-fluid .navbar-brand {
   margin-left: 0px;
 }
