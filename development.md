@@ -2,7 +2,9 @@
 layout: page
 ---
 
-## Reporting bugs and feature requests
+All development is done in the open, in GitHub [repositories](https://github.com/ja2-stracciatella) and [trackers](https://github.com/ja2-stracciatella/ja2-stracciatella/issues).
+
+# Reporting bugs and feature requests
 
 If you find a bug or have a wish, please let us know [here](https://github.com/ja2-stracciatella/ja2-stracciatella/issues). 
 Include:
@@ -12,7 +14,7 @@ Include:
 - in case you know, if this used to work fine (it is a regression)
 
 
-## How to Contribute
+# How to Contribute
 
 The best way to contribute is to make a pull request with a bug fix. Please see the list of open
 issues and enhancement requests [here](https://github.com/ja2-stracciatella/ja2-stracciatella/issues).
