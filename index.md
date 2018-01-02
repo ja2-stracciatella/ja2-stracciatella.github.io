@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Jagged Alliance 2 Stracciatella
+subtitle: An improved, cross-platform, stable Jagged Alliance 2 runtime
 ---
 
 ## Features
