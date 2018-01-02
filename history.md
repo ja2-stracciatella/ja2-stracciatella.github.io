@@ -189,7 +189,7 @@ This game started as a fan-project, titled *Project E5*. After some years of dev
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| JA2 Stracciatella, Stracc | Tron | unofficial patch and modding platform for JA2 |
+| Stracc | Tron | unofficial patch and modding platform for JA2 |
 
 *JA2 Stracciatella* was started by Tron and run by him solo for a loooong time. Besides the *v1.13 mod*, *JA2 Stracciatella* is the biggest mod with the longest and steadiest development time for *JA2*. Since it's very beginning, the goal of *JA2 Stracciatella* was to modernize and improve the game, without altering its gameplay.
 
@@ -267,7 +267,7 @@ As with *BiA*, this isn't really a bad game, but compared to *JA2*, it's safe to
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| --- | gennady | unofficial patch and modding platform for JA2 |
+| Stracc | gennady | unofficial patch and modding platform for JA2 |
 
 It had become a bit quiet around the *Stracciatella* project. Keeping a project alive for such a long time with a very limited number of contributors is no easy task. gennady continued the Stracciatella project and started *JA2 Stracciatella continued* on Bitbucket. He managed to breathe new life into the project and lots of progress was made.
 
@@ -300,7 +300,7 @@ This is definitely a huge step forward, but this game is nevertheless not good. 
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| --- | JA2 Stracciatella team | unofficial patch and modding platform for JA2 |
+| Stracc | JA2 Stracciatella team | unofficial patch and modding platform for JA2 |
 
 The team behind JA2 Stracciatella has regrouped and the project has moved to GitHub. A lot is happening right now and lots of progress is being made. The new team managed to release several new versions, the latest being 0.16.0: Apart from several bugfixes, this version also has some great new features, including a new game mode, exclusive to *JA2 Stracciatella*. Let's see where the future will get *JA2* and the Stracciatella project!
 
