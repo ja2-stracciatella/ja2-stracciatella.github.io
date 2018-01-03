@@ -296,7 +296,7 @@ This is definitely a huge step forward, but this game is nevertheless not good. 
 
 ## 25. Jagged Alliance 2 Stracciatella continued continued (since 2016)
 
-![Logo: GitHub](img/history/new_github.jpg)
+![Logo: GitHub](img/history/new_stracciatella.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
