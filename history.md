@@ -119,7 +119,7 @@ The amount of content and it's high level of immersion is second to none. This m
 ![Logo: Sirtech Canada](img/history/new_sirtech.jpg)
 
 This fatal event can be regarded as a turning point in the history of *Jagged Alliance*.
-Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publisher and/or developer of every *Jagged Alliance* game so far. Concerning official sequels, thing really went downhill from here on.
+Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publisher and/or developer of every *Jagged Alliance* game so far. Concerning official sequels, things really went downhill from here on.
 
 ## 10. Urban Chaos (2003)
 
