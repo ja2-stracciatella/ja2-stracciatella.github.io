@@ -42,7 +42,7 @@ By the way, both *JA1* and *DG* were re-released on Steam as the [Jagged Allianc
 | --- | --- | --- |
 | JA2 Demo | Sirtech Canada | official demo of JA2 |
 
-In late 1998, *JA2* was already in development for some years. It's release was delayed to 1999 and the demo was released both as a teaser and to calm down the impatiently waiting gamers.
+In late 1998, *JA2* was already in development for some years. Its release was delayed to 1999 and the demo was released both as a teaser and to calm down the impatiently waiting gamers.
 Two different version of the demo were released: An English version and a German version. Besides the different language, the two versions also featured a different team of mercs.
 The demo is a nice teaser and has some original content, not featured in the full version of the game. Although the explorable area in the demo is rather limited, it still offers a relatively high replay value, just like the full version of the game does.
 The Demo is based on the Beta version of what would be the full release of *JA2*.
