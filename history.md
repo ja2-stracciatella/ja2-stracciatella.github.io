@@ -169,7 +169,7 @@ Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publis
 
 | AKA | Developer | Status |
 | --- | --- | --- |
-| UC | JA2 Modsquad | fan-mad mod for JA2 |
+| UC | JA2 Modsquad | fan-made mod for JA2 |
 
 UC is a true masterpiece and definitely one of the greatest mods for vanilla JA2 ever made. It's basically a full conversion mod that offers a whole new storyline and a new campaign in a brand-new setting.
 UC is even more impressive when you consider the fact, that it was developed without any access to JA2's sourcecode, which was still about to be released.
