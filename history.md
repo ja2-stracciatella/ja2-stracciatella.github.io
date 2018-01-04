@@ -1,6 +1,6 @@
 # History of Jagged Alliance 2
 
-Back in 1999, Jagged Alliance 2, the sequel to Jagged Alliance, was released. It got lots of attention and was rewarded with countless "game of the year" awards. To this day, JA2 is still regarded as the king of turn-based strategy. Considering that JA2 is now almost 20 years old, makes you wonder... "Why didn't they make another sequel?" -" What happened to the franchise?"
+Back in 1999, Jagged Alliance 2, the sequel to Jagged Alliance, was released. It got lots of attention and was rewarded with countless "game of the year" awards. To this day, JA2 is still regarded as the king of turn-based strategy. Considering that JA2 is now almost 20 years old, makes you wonder... "Why didn't they make another sequel?" - "What happened to the franchise?"
 
 Let's find out by taking a look at all the official and unofficial Jagged Alliance games and some of the major mods in chronological order. Welcome to the *timeline of the Jagged Alliance series*!
 
