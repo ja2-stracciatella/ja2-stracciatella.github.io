@@ -167,7 +167,7 @@ UC is even more impressive when you consider the fact, that it was developed wit
 
 What started as a free mod for JA2 eventually became a commercial project. The final game isn't a true sequel to JA2 and feels more like a remake. While the engine and the game's content were altered (e.g. maps, weapons, mercs), the story remains unchanged. 
 Because of severe problems between the developer and the publisher, two different commercial versions of this are floating around: v5 and v6, which are completely incompatible: v5 can't be upgraded to v6 and v6-specific patches can't be applied to v5.
-As with JA2 Gol*, things are a bit confusing here. There are three different releases of WF:
+As with JA2 Gold, things are a bit confusing here. There are three different releases of WF:
 + old releases ≤ version 4, which are free mods
 + version 5, which is a commercial release
 + version 6, which is a different commercial release
