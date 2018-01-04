@@ -45,6 +45,7 @@ Let's find out by taking a look at all the official and unofficial Jagged Allian
 The first game in the series that started it all. JA1 features similar to JA2 with an extensive, sandbox-ish singleplayer campaign. Today, the first game in the series is by far less popular than it's successor and it hasn't aged quite as well. However, JA1 is still a very interesting game and the roots of what makes JA2 so great can be found all over the place. This includes many of the memorable characters and the high level of cheesiness.
 Speaking of age, these were the old days of PC-gaming, even before Windows 95. JA1 is a DOS game.
 
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 2. Jagged Alliance: Deadly Games (1995)
 
@@ -58,6 +59,8 @@ Unlike JA1, DG is mission-based, offers a multiplayer mode and a map editor. It 
 to as Jagged Alliance 1.5.
 When it first came out, DG was widely viewed as just an add-on for JA1 or a mission-pack. This was probably because it looked more or less the same and also shared most of it's content. Nevertheless, it's an original and very special game in the Jagged Alliance series and its unique playstyle, with its multiplayer mode, hasn't really been duplicated so far.
 By the way, both JA1 and DG were re-released on Steam as the [Jagged Alliance: Gold Edition](http://store.steampowered.com/app/283270/?) in 2015 by THQ Nordic GmbH Games.
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 3. Jagged Alliance 2 Demo (1998)
 
@@ -73,6 +76,8 @@ The demo is a nice teaser and has some original content, not featured in the ful
 The Demo is based on the Beta version of what would be the full release of JA2.
 The JA2 Demo can be a bit hard to track down these days. You can download it [here](http://kermi.pp.fi/JA_2/Other_Stuff/Demo/).
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 4. Jagged Alliance 2 (1999 / 2000)
 
 ![Boxart: JA2 Linux version](img/history/new_ja2linux.jpg)
@@ -84,6 +89,8 @@ The JA2 Demo can be a bit hard to track down these days. You can download it [he
 JA2 is still regarded as one of the very best turn-based strategy  titles ever made. No true successor to the game that can even roughly reach it's high standards has been created as of today (2018). Most of the popularity and fame, the Jagged Alliance franchise enjoys up to this day, basically derives from this one title.
 Like with many good games, it's hard to describe what exactly makes JA2 so great. It's probably the unique way it throws the best parts of several genres into a blender. This includes TBS, RPG, Simulation and more. Add a high level of immersion, high replay value and obvious passion and dedication from the developer's side and you get... JA2!
 JA2 was first released for Windows and later ported to Linux by Tribsoft in 2000.
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 5. Jagged Alliance 2: Unfinished Business (2001)
 
@@ -98,6 +105,8 @@ After it's release, this standalone add-on was heavily criticized for it's short
 However, despite all criticism, UB introduced two great features: The inclusion of the map editor and the possibility to import mercs from JA2.
 Similar to DG, UB was widely regarded as just some sort of mission-pack to its predecessor, leaving the fans hungry for more.
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 6. Deidranna Lives! (2001)
 
 ![Deidranna Lives!](img/history/new_dl.jpg)
@@ -109,6 +118,8 @@ Similar to DG, UB was widely regarded as just some sort of mission-pack to its p
 Although it's debatable if DL has aged as well as other mods like, for example Urban Chaos, DL is still a very special mod.
 DL was the first large-scale mod for JA2. It was extremely popular back in the old days and, because of it's sheer amount of content, it was also a milestone in JA2-modding.
 Apart from its technical aspects, it was, and of course still is, also just fun to play.
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 7. Jagged Alliance 2 Gold Pack (2002)
 
@@ -126,6 +137,8 @@ Things can be a bit confusing here, because the Gold version can only be identif
 + Version 1.12 is the last official release of JA2 Gold.
 Jagged Alliance 2 Gold is the ideal basis for JA2 Stracciatella!
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 8. Vietnam: SOG'69 (2002)
 
 ![Titlescreen: SOG'69 polish version](img/history/new_sog.jpg)
@@ -139,12 +152,16 @@ SOG'69 is one of the most popular user-made campaigns (if no **the** most popula
 It takes the player to the Vietnam war, which is a totally new setting for a Jagged Alliance game.
 The amount of content and it's high level of immersion is second to none. This mod is an absolute must-play for everyone who owns UB.
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 9. Sirtech Canada Ltd. goes bankrupt (2003)
 
 ![Logo: Sirtech Canada](img/history/new_sirtech.jpg)
 
 This fatal event can be regarded as a turning point in the history of Jagged Alliance.
 Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publisher and/or developer of every Jagged Alliance game so far. Concerning official sequels, things really went downhill from here on.
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 10. Urban Chaos (2003)
 
@@ -156,6 +173,8 @@ Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publis
 
 UC is a true masterpiece and definitely one of the greatest mods for vanilla JA2 ever made. It's basically a full conversion mod that offers a whole new storyline and a new campaign in a brand-new setting.
 UC is even more impressive when you consider the fact, that it was developed without any access to JA2's sourcecode, which was still about to be released.
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 11. Jagged Alliance 2: Wildfire (2004)
 
@@ -174,12 +193,16 @@ As with JA2 Gold, things are a bit confusing here. There are three different rel
 
 WF got mixed reviews. It's main issues are the somewhat unbalanced gameplay, the rather large number of bugs and the fact that it runs on the JA2 engine. While the engine was modified to support higher resolutions, it was nevertheless absolutely outdated when WF came out.
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 12. JA2's sourcecode is released (2004)
 
 ![Boxart: JA2 full release Russian version](img/history/new_ja2ru.jpg)
 
 The sourcecode is the basis for the JA2 Stracciatella project and many other great mods, including the v1.13 mod. It was released together 
 with WF. The sourcecode was released with a license that basically allows modders to create non-commercial projects with it.
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 13. Jagged Alliance 2 v1.13 mod (since 2005)
 
@@ -196,6 +219,8 @@ JA1 included, and much more...
 v1.13 is also a platform for several other mods. Some major mods based on v1.13 include Arulco Folding Stock, AIMNAS and Arulco Revisited.
 [The Bear's Pit Forum](http://thepit.ja-galaxy-forum.com/) is the main hangout for the JA2 v1.13 community.
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 14. Brigade E5: New Jagged Union (2005)
 
 ![Boxart: Brigade E5 German version](img/history/new_e5.jpg)
@@ -208,6 +233,8 @@ This game started as a fan-project, titled Project E5. After some years of devel
 Brigade: E5 is the first game in a series of sequels, successors and spin-offs that all try to either be a remake of JA2 or a sequel to it, without calling themselves "JA3". It's also the first "modern" (modern = after JA2) game in the Jagged Alliance universe.
 Brigade E5 features some good 3D graphics for its time. And that's about the most positive thing there is to say about this game. On the bad side, it's full of bugs and the gameplay is mediocre at best.
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 15. Jagged Alliance 2 Stracciatella (2006-2013)
 
 ![changelog: JA2 Stracciatella](img/history/new_stracciatellaold.jpg)
@@ -217,6 +244,8 @@ Brigade E5 features some good 3D graphics for its time. And that's about the mos
 | ja2s | Tron | unofficial patch and modding platform for JA2 |
 
 JA2 Stracciatella was started by Tron and run by him solo for a loooong time. Besides the v1.13 mod, JA2 Stracciatella is the biggest mod with the longest and steadiest development time for JA2. Since it's very beginning, the goal of JA2 Stracciatella was to modernize and improve the game, without altering its gameplay.
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 16. Hired Guns: The Jagged Edge (2007)
 
@@ -230,6 +259,8 @@ In the mid-2000s, Russian developer GFI was commissioned to develop two Jagged A
 To cut a long and strange story short: Things went horribly wrong. In the end, no official sequel or remake were developed by GFI and Strategy First withdrew the rights on the Jagged Alliance franchise from GFI. What we got in the end was Jazz: Hired Guns, later renamed to Hired Guns: The Jagged Edge. This game was originally developed to be Jagged Alliance 3D. But since GFI had no rights on the IP anymore, the game was renamed.
 And how does it play? – The very first impression is "JA2 with a new graphic engine". Sounds good so far. However, it also features a bad AI, frustrating gameplay and a bunch of bugs. Like many games on this list, Hired Guns: The Jagged Edge underwent a troubled development, which concluded in a strange and dubious release. It quickly drifted off into obscurity.
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 17. 7.62: High Calibre (2007 / 2008)
 
 ![Boxart: 7.62: High Calibre US version](img/history/new_762.jpg)
@@ -240,6 +271,8 @@ And how does it play? – The very first impression is "JA2 with a new graphic e
 
 This is the direct sequel to Brigade E5. Although it was released in Russia in 2007, an international release didn't happen until late 2008. This game has a small but loyal fan base but didn't gain too much attention overall. An add-on named 7.62: Reloaded was released, but apparently only in Russia. This game lead to the development of a mod called Blue Sun Mod, which is a complete overhaul for this game. It is one of the few instances, where playing a modded game without having ever played the vanilla game is absolutely advised!
 Overall, it's an okay-ish game. Maybe it would have been perceived more positively, if people didn't compare it to JA2 all the time.
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 18. Jagged Alliance DS (2009)
 
@@ -253,6 +286,8 @@ This is mostly just a re-release of the original JA1. Some minor gameplay elemen
 And by badly aged, I'm not referring to the graphics, but to the controls and interface, which are by far less userfriendly than in JA2.
 Now, if they would have ported JA2, that would have been truly amazing!
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 19. Jagged Alliance Online (2012-2015)
 
 ![Logo: JAOnline](img/history/new_jao.jpg)
@@ -263,6 +298,8 @@ Now, if they would have ported JA2, that would have been truly amazing!
 
 An average free2play aka pay2win multiplayer online game with the Jagged Alliance name on it. A new low-point for the franchise.
 This game is not available anymore. Jagged Alliance Online has been converted into Jagged Alliance Online: Reloaded in 2015. More about that game later...
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 20. Jagged Alliance: Back in Action (2012)
 
@@ -275,6 +312,8 @@ This game is not available anymore. Jagged Alliance Online has been converted in
 A remake of JA2. While it's not really a bad game, the only new and innovative thing BiA brought to the Jagged Alliance franchise besides better graphics is: DLC's. And thinking about it... this is in fact a very bad thing.
 Obligatory DLC-rant aside, this game and it's sequel are probably the best "modern" games with the Jagged Alliance name on them. Of course, this doesn't mean too much, since the competition with everything on this list after JA2 is rather weak.
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 21. Jagged Alliance: Crossfire (2012)
 
 ![Boxart: JA: Crossfire Polish version](img/history/new_crossfire.jpg)
@@ -286,6 +325,8 @@ Obligatory DLC-rant aside, this game and it's sequel are probably the best "mode
 The official sequel to BiA. Both Crossfire and BiA were released within 2012. Not to mention all the DLC's, which were also released in the same year. So, judging just from the raw numbers, do you really expect this to be an original, innovative, high quality game?
 As with BiA, Crossfire isn't really a bad game, but compared to JA2, it's safe to call it pale and soulless.
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 22. Jagged Alliance 2 Stracciatella continued (2013-2016)
 
 ![Logo: Bitbucket](img/history/new_bitbucket.png)
@@ -295,6 +336,8 @@ As with BiA, Crossfire isn't really a bad game, but compared to JA2, it's safe t
 | ja2s | gennady | unofficial patch and modding platform for JA2 |
 
 It had become a bit quiet around the Stracciatella project. Keeping a project alive for such a long time with a very limited number of contributors is no easy task. gennady continued the Stracciatella project and started JA2 Stracciatella continued on Bitbucket. He managed to breathe new life into the project and lots of progress was made.
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 ## 23. Jagged Alliance: Flashback (2014)
 
@@ -308,6 +351,8 @@ Game developer Full Control bought the Jagged Alliance franchise in 2013 and sta
 Interestingly, this game was partly crowdfunded on Kickstarter and backed with $368.614. It's the first game in the Jagged Alliance franchise to be crowdfunded. Unfortunately, this game could neither convince the fanbase, nor was it a critical or commercial success in general. Several features which were supposed to be added to the game post-release were not realized. Needless to mention that Full Control games went bankrupt shortly after the release... a common pattern when dealing with the Jagged Alliance franchise...
 Once more, Jagged Alliance got a sequel of mediocre quality which looks, plays and feels like a watered-down version of JA2 with improved graphics. To put this game in one (sad) word: **FAIL!**
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 24. Jagged Alliance Online: Reloaded (2015)
 
 ![Logo: JAO:Reloaded](img/history/new_jaor.jpg)
@@ -319,6 +364,8 @@ Once more, Jagged Alliance got a sequel of mediocre quality which looks, plays a
 This is basically the same game as JAO, but it changed from a free2play title to a classic buy2play game.
 This is definitely a huge step forward, but this game is nevertheless not very good. It has some DLC's available, but that doesn't improve the situation. JAO and AO:R are probably the most obscure titles in this list.
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 25. Jagged Alliance 2 Stracciatella continued continued (since 2016)
 
 ![Logo: Stracciatella](img/history/new_stracciatella.jpg)
@@ -329,12 +376,16 @@ This is definitely a huge step forward, but this game is nevertheless not very g
 
 The team behind JA2 Stracciatella has regrouped and the project has moved to GitHub. A lot is happening right now and lots of progress is being made. The new team managed to release several new versions, the latest being 0.16.0: Apart from several bugfixes, this version also has some great new features, including a new game mode, exclusive to JA2 Stracciatella. Let's see where the future will get JA2 and the Stracciatella project!
 
+[back to top](#timeline-of-the-jagged-alliance-series)
+
 ## 26. Jagged Alliance 3
 
 ![Logo: JA3](img/history/new_ja3.jpg)
 
 Jagged Alliance 3, an official, direct sequel to JA2 is the game that just didn't happen (yet). There were some serious attempts, including one made by Sirtech Canada itself, before they went out of business, and the one by GFI, which later became Hired Guns: The Jagged Edge.
 Not only is there no game out there that is called Jagged Alliance 3, but (more importantly) there is also no sequel so far that manages to satisfy the fans of the series and/or to be a general success.
+
+[back to top](#timeline-of-the-jagged-alliance-series)
 
 # Add-on: Other games worth mentioning
 
@@ -348,3 +399,5 @@ Here's a short and incomplete list of games similar to JA2:
 + [Wages of War: The Business of Battle](http://www.mobygames.com/game/windows/wages-of-war-the-business-of-battle)
 + [Wasteland series](http://www.mobygames.com/game-group/wasteland-series)
 + [X-Com series](http://www.mobygames.com/game-group/x-com-series)
+
+[back to top](#timeline-of-the-jagged-alliance-series)
