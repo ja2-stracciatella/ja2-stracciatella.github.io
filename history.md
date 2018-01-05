@@ -36,7 +36,7 @@ Let's find out by taking a look at all the official and unofficial Jagged Allian
 
 ## 1. Jagged Alliance (1994)
 
-![Boxart: JA1 US version](img/history/new_ja1.jpg)
+![Boxart: JA1 US version](img/history/small_ja1.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ Speaking of age, these were the old days of PC-gaming, even before Windows 95. J
 
 ## 2. Jagged Alliance: Deadly Games (1995)
 
-![Boxart: DG US version](img/history/new_dg.jpg)
+![Boxart: DG US version](img/history/small_dg.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -64,7 +64,7 @@ By the way, both JA1 and DG were re-released on Steam as the [Jagged Alliance: G
 
 ## 3. Jagged Alliance 2 Demo (1998)
 
-![Boxart: JA2 full release German version](img/history/new_ja2.jpg)
+![Boxart: JA2 full release German version](img/history/small_ja2.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -80,7 +80,7 @@ The JA2 Demo can be a bit hard to track down these days. You can download it [he
 
 ## 4. Jagged Alliance 2 (1999 / 2000)
 
-![Boxart: JA2 Linux version](img/history/new_ja2linux.jpg)
+![Boxart: JA2 Linux version](img/history/small_ja2linux.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -94,7 +94,7 @@ JA2 was first released for Windows and later ported to Linux by Tribsoft in 2000
 
 ## 5. Jagged Alliance 2: Unfinished Business (2001)
 
-![Boxart: UB US version](img/history/new_ub.jpg)
+![Boxart: UB US version](img/history/small_ub.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -109,7 +109,7 @@ Similar to DG, UB was widely regarded as just some sort of mission-pack to its p
 
 ## 6. Deidranna Lives! (2001)
 
-![Deidranna Lives!](img/history/new_dl.jpg)
+![Deidranna Lives!](img/history/small_dl.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -123,7 +123,7 @@ Apart from its technical aspects, it was, and of course still is, also just fun 
 
 ## 7. Jagged Alliance 2 Gold Pack (2002)
 
-![Boxart: US version](img/history/new_ja2gold.jpg)
+![Boxart: US version](img/history/small_ja2gold.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -141,7 +141,7 @@ Jagged Alliance 2 Gold is the ideal basis for JA2 Stracciatella!
 
 ## 8. Vietnam: SOG'69 (2002)
 
-![Titlescreen: SOG'69 polish version](img/history/new_sog.jpg)
+![Titlescreen: SOG'69 polish version](img/history/small_sog.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -156,7 +156,7 @@ The amount of content and it's high level of immersion is second to none. This m
 
 ## 9. Sirtech Canada Ltd. goes bankrupt (2003)
 
-![Logo: Sirtech Canada](img/history/new_sirtech.jpg)
+![Logo: Sirtech Canada](img/history/small_sirtech.jpg)
 
 This fatal event can be regarded as a turning point in the history of Jagged Alliance.
 Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publisher and/or developer of every Jagged Alliance game so far. Concerning official sequels, things really went downhill from here on.
@@ -165,7 +165,7 @@ Sirtech Canada Ltd. was the last division of Sir-Tech Inc., which was the publis
 
 ## 10. Urban Chaos (2003)
 
-![Titlescreen: Urban Chaos](img/history/new_uc.jpg)
+![Titlescreen: Urban Chaos](img/history/small_uc.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -178,7 +178,7 @@ UC is even more impressive when you consider the fact, that it was developed wit
 
 ## 11. Jagged Alliance 2: Wildfire (2004)
 
-![Boxart: WF German version](img/history/new_wf.jpg)
+![Boxart: WF German version](img/history/small_wf.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -197,7 +197,7 @@ WF got mixed reviews. It's main issues are the somewhat unbalanced gameplay, the
 
 ## 12. JA2's sourcecode is released (2004)
 
-![Boxart: JA2 full release Russian version](img/history/new_ja2ru.jpg)
+![Boxart: JA2 full release Russian version](img/history/small_ja2ru.jpg)
 
 The sourcecode is the basis for the JA2 Stracciatella project and many other great mods, including the v1.13 mod. It was released together 
 with WF. The sourcecode was released with a license that basically allows modders to create non-commercial projects with it.
@@ -206,7 +206,7 @@ with WF. The sourcecode was released with a license that basically allows modder
 
 ## 13. Jagged Alliance 2 v1.13 mod (since 2005)
 
-![Titlescreen: JA2 v1.13](img/history/new_113.jpg)
+![Titlescreen: JA2 v1.13](img/history/small_113.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -223,7 +223,7 @@ v1.13 is also a platform for several other mods. Some major mods based on v1.13 
 
 ## 14. Brigade E5: New Jagged Union (2005)
 
-![Boxart: Brigade E5 German version](img/history/new_e5.jpg)
+![Boxart: Brigade E5 German version](img/history/small_e5.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -237,7 +237,7 @@ Brigade E5 features some good 3D graphics for its time. And that's about the mos
 
 ## 15. Jagged Alliance 2 Stracciatella (2006-2013)
 
-![changelog: JA2 Stracciatella](img/history/new_stracciatellaold.jpg)
+![changelog: JA2 Stracciatella](img/history/small_stracciatellaold.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -249,7 +249,7 @@ JA2 Stracciatella was started by Tron and run by him solo for a loooong time. Be
 
 ## 16. Hired Guns: The Jagged Edge (2007)
 
-![Boxart: Hired Guns: The Jagged Edge German version](img/history/new_hiredguns.jpg)
+![Boxart: Hired Guns: The Jagged Edge German version](img/history/small_hiredguns.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -263,7 +263,7 @@ And how does it play? – The very first impression is "JA2 with a new graphic e
 
 ## 17. 7.62: High Calibre (2007 / 2008)
 
-![Boxart: 7.62: High Calibre US version](img/history/new_762.jpg)
+![Boxart: 7.62: High Calibre US version](img/history/small_762.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -276,7 +276,7 @@ Overall, it's an okay-ish game. Maybe it would have been perceived more positive
 
 ## 18. Jagged Alliance DS (2009)
 
-![Boxart: JA DS](img/history/new_ja1ds.jpg)
+![Boxart: JA DS](img/history/small_ja1ds.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -290,7 +290,7 @@ Now, if they would have ported JA2, that would have been truly amazing!
 
 ## 19. Jagged Alliance Online (2012-2015)
 
-![Logo: JAOnline](img/history/new_jao.jpg)
+![Logo: JAOnline](img/history/small_jao.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -303,7 +303,7 @@ This game is not available anymore. Jagged Alliance Online has been converted in
 
 ## 20. Jagged Alliance: Back in Action (2012)
 
-![Boxart: JA:BiA Russian version](img/history/new_bia.jpg)
+![Boxart: JA:BiA Russian version](img/history/small_bia.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -316,7 +316,7 @@ Obligatory DLC-rant aside, this game and it's sequel are probably the best "mode
 
 ## 21. Jagged Alliance: Crossfire (2012)
 
-![Boxart: JA: Crossfire Polish version](img/history/new_crossfire.jpg)
+![Boxart: JA: Crossfire Polish version](img/history/small_crossfire.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -329,7 +329,7 @@ As with BiA, Crossfire isn't really a bad game, but compared to JA2, it's safe t
 
 ## 22. Jagged Alliance 2 Stracciatella continued (2013-2016)
 
-![Logo: Bitbucket](img/history/new_bitbucket.png)
+![Logo: Bitbucket](img/history/small_bitbucket.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -341,7 +341,7 @@ It had become a bit quiet around the Stracciatella project. Keeping a project al
 
 ## 23. Jagged Alliance: Flashback (2014)
 
-![Boxart: JA: Flashback](img/history/new_flashback.jpg)
+![Boxart: JA: Flashback](img/history/small_flashback.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -355,7 +355,7 @@ Once more, Jagged Alliance got a sequel of mediocre quality which looks, plays a
 
 ## 24. Jagged Alliance Online: Reloaded (2015)
 
-![Logo: JAO:Reloaded](img/history/new_jaor.jpg)
+![Logo: JAO:Reloaded](img/history/small_jaor.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -368,7 +368,7 @@ This is definitely a huge step forward, but this game is nevertheless not very g
 
 ## 25. Jagged Alliance 2 Stracciatella continued continued (since 2016)
 
-![Logo: Stracciatella](img/history/new_stracciatella.jpg)
+![Logo: Stracciatella](img/history/small_stracciatella.jpg)
 
 | AKA | Developer | Status |
 | --- | --- | --- |
@@ -380,7 +380,7 @@ The team behind JA2 Stracciatella has regrouped and the project has moved to Git
 
 ## 26. Jagged Alliance 3
 
-![Logo: JA3](img/history/new_ja3.jpg)
+![Logo: JA3](img/history/small_ja3.jpg)
 
 Jagged Alliance 3, an official, direct sequel to JA2 is the game that just didn't happen (yet). There were some serious attempts, including one made by Sirtech Canada itself, before they went out of business, and the one by GFI, which later became Hired Guns: The Jagged Edge.
 Not only is there no game out there that is called Jagged Alliance 3, but (more importantly) there is also no sequel so far that manages to satisfy the fans of the series and/or to be a general success.
