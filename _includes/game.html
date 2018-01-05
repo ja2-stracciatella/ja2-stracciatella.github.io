@@ -1,0 +1,32 @@
+{% capture title-n %}
+  {{ game.title | prepend: '. ' | prepend: n }}
+{% endcapture %}
+
+<h2 id="{{ title-n | slugify }}">
+  {{ title-n }}
+</h2>
+
+<div class="hist-img">
+  <img src="{{ game.imgpath }}" alt="{{ game.imgalt }}">
+</div>
+
+<div class="hist-table">
+  <table>
+    <tr>
+      <th>AKA</th>
+      <th>Developer</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td>{{ game.aka }}</td>
+      <td>{{ game.dev }}</td>
+      <td>{{ game.status }}</td>
+    </tr>
+  </table>
+</div>
+
+<div class="hist-desc">
+  {{ game.content }}
+</div>
+
+<a class="hist-goup" href="#">back to top</a>
