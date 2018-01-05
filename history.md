@@ -42,7 +42,7 @@ Let's find out by taking a look at all the official and unofficial Jagged Allian
 | --- | --- | --- |
 | Jagged Alliance 1, JA1 | Madlab Software | official game |
 
-The first game in the series that started it all. JA1 features similar to JA2 with an extensive, sandbox-ish singleplayer campaign. Today, the first game in the series is by far less popular than it's successor and it hasn't aged quite as well. However, JA1 is still a very interesting game and the roots of what makes JA2 so great can be found all over the place. This includes many of the memorable characters and the high level of cheesiness.
+The first game in the series that started it all. JA1 features gameplay similar to JA2 with an extensive, sandbox-ish singleplayer campaign. Today, the first game in the series is by far less popular than it's successor and it hasn't aged quite as well. However, JA1 is still a very interesting game and the roots of what makes JA2 so great can be found all over the place. This includes many of the memorable characters and the high level of cheesiness.
 Speaking of age, these were the old days of PC-gaming, even before Windows 95. JA1 is a DOS game.
 
 [back to top](#timeline-of-the-jagged-alliance-series)
