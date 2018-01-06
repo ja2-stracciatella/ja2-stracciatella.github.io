@@ -14,7 +14,7 @@ Let's find out by taking a look at all the official and unofficial Jagged Allian
 {% for game in site.history %}
   {% assign n = forloop.index %}
   {% capture toc-line %}
-   {{ n }}. [{{ game.title }}](#{{ game.title | prepend: '. ' | prepend: n | slugify }})
+   {{ n }}. {% if game.emphasis == 1 %}**{% endif %}[{{ game.title }}](#{{ game.title | prepend: '. ' | prepend: n | slugify }}){% if game.emphasis == 1 %}**{% endif %}
   {% endcapture %}
   {{ toc-line }}
 {% endfor %}

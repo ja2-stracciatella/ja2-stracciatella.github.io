@@ -5,6 +5,7 @@ imgalt: "Boxart: UB US version"
 aka: JA 2.5, UB 
 dev: Sirtech Canada 
 status: official sequel to JA2 
+emphasis: 1
 ---
 
 UB aka JA 2.5 runs on a slightly modified JA2 engine. The gameplay is more or less the same as before, but large portions of JA2's features were cut out to allow for a more streamlined and action-orientated gameplay. This is especially true for almost the whole strategic part of JA2.
