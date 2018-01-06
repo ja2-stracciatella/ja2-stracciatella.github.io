@@ -10,6 +10,7 @@
   <img src="{{ game.imgpath }}" alt="{{ game.imgalt }}">
 </div>
 
+{% if game.dev.size > 0 %}
 <div class="hist-table">
   <table>
     <tr>
@@ -24,6 +25,7 @@
     </tr>
   </table>
 </div>
+{% endif %}
 
 <div class="hist-desc">
   {{ game.content }}
