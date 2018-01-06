@@ -29,11 +29,11 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   News: "news"
-  How to run: "how-to-run"
-  Download: "download"
-  History: "history"
   Features: "features"
+  How to run: "how-to-run"
   Bugs: "development"
+  History: "history"
+  Download: "download"
 
 # --- Footer options --- #
 
