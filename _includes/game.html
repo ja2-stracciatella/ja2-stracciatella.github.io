@@ -7,7 +7,7 @@
 </h2>
 
 <div class="hist-img">
-  <img src="{{ game.imgpath }}" alt="{{ game.imgalt }}">
+  <img src="{{ game.imgpath | prepend: '../' }}" alt="{{ game.imgalt }}">
 </div>
 
 {% if game.dev.size > 0 %}
