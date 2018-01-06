@@ -53,6 +53,22 @@ a:hover, a:focus, p a:hover, p a:focus, .post-preview a:hover, .post-preview a:f
   margin: 0px;
 }
 
+.hist-img, .hist-table, .hist-desc {
+  float: left;
+  max-width: 68%;
+  padding-left: 2%;
+}
+.hist-img {
+  max-width: 30%;
+  padding: 0%;
+}
+.hist-goup {
+  clear: both;
+}
+.hist-goup a::before {
+  content: "▲ ";
+}
+
 /* make the Download menu item stand out */
 #main-navbar > ul > li:last-child a {
   color: #9d1e1c;

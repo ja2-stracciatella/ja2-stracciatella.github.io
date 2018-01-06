@@ -2,7 +2,7 @@
   {{ game.title | prepend: '. ' | prepend: n }}
 {% endcapture %}
 
-<h2 id="{{ title-n | slugify }}">
+<h2 id="{{ title-n | slugify }}" class="hist-title">
   {{ title-n }}
 </h2>
 
@@ -31,4 +31,6 @@
   {{ game.content }}
 </div>
 
-<a class="hist-goup" href="#">back to top</a>
+<div class="hist-goup">
+  <a href="#">back to top</a>
+</div>
