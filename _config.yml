@@ -54,6 +54,9 @@ footer-links-active:
 
 # --- Misc --- #
 
+collections:
+  - history
+
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
