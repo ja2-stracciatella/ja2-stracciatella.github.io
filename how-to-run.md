@@ -18,7 +18,7 @@ layout: page
 
 3. Start the launcher and use it to configure the game. It will automatically create the configuration file.
 
-4. Set “JA2 Data Directory” to point to the directory where the original game was installed during step 1. You can manually enter the directory or use the “...” button to browse your computer.
+4. Set “JA2 Data Directory” (“JA *Game* Directory” in nightly builds) to point to the directory where the original game was installed during step 1. You can manually enter the directory or use the “...” button to browse your computer. You have to select the directory that **contains** the directory called “Data”. Do not select the “Data” directory.
 
 5. If you haven't installed the English version of the original game, you have to select the correct “Game Version” i.e. localization. Note that the game supports two different Russian localizations: RUSSIAN for the “BUKA Agonia Vlasty” release and RUSSIAN_GOLD for the “Gold” release.
 
@@ -29,7 +29,7 @@ layout: page
    - `%USERPROFILE%\Documents\JA2\ja2.ini` on Windows.
    - `~/.ja2/ja2.ini` on Linux, BSD or OS X.
 
-4. Edit the configuration file and set parameter data_dir to point on the directory where the original game was installed on step 1.  For example:
+4. Edit the configuration file and set parameter data_dir to point on the directory where the original game was installed on step 1.  You have to use the path to the directory that **contains** the directory called “Data”. Do not use the path to the “Data” directory. For example:
 
    - `D:\games\ja2\` on Windows.
    - `/home/user/games/ja2-installed` on Linux, BSD or OS X.
