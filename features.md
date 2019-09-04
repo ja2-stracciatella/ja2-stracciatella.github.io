@@ -52,3 +52,26 @@ A few data-altering [mods](https://github.com/ja2-stracciatella/ja2-stracciatell
 The map editor is now integrated into the game. Start it through the launcher or like this: `ja2.exe -editor`.
 
 ![Ja2 Stracciatella Editor](/img/features/integrated-editor.jpg)
+
+### Debug screens
+*Note: added in 0.15.0.*
+
+Some debug screens are accessible when using the `-debug` parameter.
+
+Tactical Screen:
+
+- `F11` for Quest Debug Screen
+- `CTRL+f` for FPS Display
+- `CTRL+z` to toggle z-buffer
+- `ALT+m` for level node debug mode
+- `ALT+n` to play quotes of hovered merc
+- `q` for soldier and land debug mode
+- `y` for struct debug mode
+
+To exit any screen press `q`. To cycle through different pages use `pageup` and `pagedown`.
+
+Examples:
+
+![Debug soldier](/img/features/debug-soldier.png)
+![Debug land](/img/features/debug-land.png)
+![Debug z-buffer](/img/features/debug-z-buffer.png)
