@@ -12,7 +12,7 @@ layout: page
 
 1. Install original Jagged Alliance 2 game on your computer.  Data files from the original game will be used by JA2-Stracciatella. If you're installing the linux port, make sure to copy over files from CD2 too.
 
-2. [Download JA2-Stracciatella](/download) or [compile](https://github.com/ja2-stracciatella/ja2-stracciatella/blob/master/COMPILATION.md) it from the source codes.
+2. [Download JA2-Stracciatella](/download) or [compile](https://github.com/ja2-stracciatella/ja2-stracciatella/blob/master/COMPILATION.md) it from the source codes. Install it wherever you want.
 
 ##  With the optional launcher
 
