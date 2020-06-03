@@ -82,7 +82,8 @@ Examples:
 
 Basic Wildfire support is present, with most of the data differences externalized. You need
 to have JA2, Wildfire and [this conversion](https://github.com/ja2-stracciatella/mod-wildfire-maps/releases)
-installed to start a Wildfire game. **Vanilla games will not be available any more!**
+installed to start a Wildfire game. It is implemented as other [mods](#bundled-optional-mini-mods), so you can
+still play vanilla games too.
 
 Read the included [README](https://github.com/ja2-stracciatella/mod-wildfire-maps/blob/master/README.md)
 for detailed instructions and caveats.
