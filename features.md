@@ -9,6 +9,7 @@ title: ""
     + [Dead is Dead mode](#dead-is-dead-mode)
     + [Bundled optional mini-mods](#bundled-optional-mini-mods)
     + [Integrated Editor](#integrated-editor)
+    + [Wildfire support](#wildfire-support)
 
 # Features
 
@@ -75,3 +76,13 @@ Examples:
 ![Debug soldier](/img/features/debug-soldier.png)
 ![Debug land](/img/features/debug-land.png)
 ![Debug z-buffer](/img/features/debug-z-buffer.png)
+
+### Wildfire support
+*Note: added in 0.17.0.*
+
+Basic Wildfire support is present, with most of the data differences externalized. You need
+to have JA2, Wildfire and [this conversion](https://github.com/ja2-stracciatella/mod-wildfire-maps/releases)
+installed to start a Wildfire game. **Vanilla games will not be available any more!**
+
+Read the included [README](https://github.com/ja2-stracciatella/mod-wildfire-maps/blob/master/README.md)
+for detailed instructions and caveats.
