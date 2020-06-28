@@ -40,7 +40,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Ja2 Stracciatella Team
+  name: JA2 Stracciatella Team
   github: ja2-stracciatella
 
 # Select which links to show in the footer
