@@ -42,6 +42,7 @@ A few data-altering [mods](https://github.com/ja2-stracciatella/ja2-stracciatell
 - Honest IMP quiz questions: the satirical answers now include the personality aspect that they would contribute to
 - O Fortuna: dramatic intro music for Jagged Alliance 2
 
+Pass the following flag when running JA2S (currently impossible from the launcher):
 ```
 -mod MOD_NAME    Start one of the game modifications. MOD_NAME is the
                  name of modification, e.g. 'from-russia-with-love. See
