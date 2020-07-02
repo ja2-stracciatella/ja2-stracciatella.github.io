@@ -43,9 +43,9 @@ A few data-altering [mods](https://github.com/ja2-stracciatella/ja2-stracciatell
 - O Fortuna: dramatic intro music for Jagged Alliance 2
 
 ```
-    -mod MOD_NAME       Start one of the game modifications. MOD_NAME is the
-                        name of modification, e.g. 'from-russia-with-love. See
-                        assets/mods folder for possible options'.
+-mod MOD_NAME    Start one of the game modifications. MOD_NAME is the
+                 name of modification, e.g. 'from-russia-with-love. See
+                 assets/mods folder for possible options'.
 ```
 
 Several additional mods can be downloaded, conveniently [bundled in a single file](https://github.com/ja2-derek/ja2-stracciatella-modpacks/releases/tag/0.0.1).
