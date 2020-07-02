@@ -48,6 +48,10 @@ A few data-altering [mods](https://github.com/ja2-stracciatella/ja2-stracciatell
                         assets/mods folder for possible options'.
 ```
 
+Several additional mods can be downloaded, conveniently [bundled in a single file](https://github.com/ja2-derek/ja2-stracciatella-modpacks/releases/tag/0.0.1).
+They are not included with the engine due to scope or license problems. Unpack them alongside the other mods in the `assets` directory and run them the
+same way.
+
 ### Integrated Editor
 
 The map editor is now integrated into the game. Start it through the launcher or like this: `ja2.exe -editor`.
