@@ -49,8 +49,8 @@ Pass the following flag when running JA2S (currently impossible from the launche
                  assets/mods folder for possible options'.
 ```
 
-Several additional mods can be downloaded, conveniently [bundled in a single file](https://github.com/ja2-derek/ja2-stracciatella-modpacks/releases/tag/0.0.1).
-They are not included with the engine due to scope or license problems. Unpack them alongside the other mods in the `assets` directory and run them the
+Several additional mods can be downloaded, conveniently [bundled in a single file](https://github.com/ja2-stracciatella/ja2-stracciatella-modpacks/releases/latest).
+They are not included with the engine due to scope or license problems. Unpack them alongside the others in the `mods` directory and run them the
 same way.
 
 ### Integrated Editor
