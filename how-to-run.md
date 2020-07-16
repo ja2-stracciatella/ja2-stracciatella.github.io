@@ -26,18 +26,18 @@ layout: page
 
 3. Start the game the first time.  It will create the configuration file in
 
-   - `%USERPROFILE%\Documents\JA2\ja2.ini` on Windows.
-   - `~/.ja2/ja2.ini` on Linux, BSD or OS X.
+   - `%USERPROFILE%\Documents\JA2\ja2.json` on Windows.
+   - `~/.ja2/ja2.json` on Linux, BSD or OS X.
 
-4. Edit the configuration file and set parameter data_dir to point on the directory where the original game was installed on step 1.  You have to use the path to the directory that **contains** the directory called “Data”. Do not use the path to the “Data” directory. For example:
+4. Edit the configuration file and set parameter `game_dir` to point on the directory where the original game was installed on step 1.  You have to use the path to the directory that **contains** the directory called “Data”. Do not use the path to the “Data” directory. For example:
 
    - `D:\games\ja2\` on Windows.
    - `/home/user/games/ja2-installed` on Linux, BSD or OS X.
 
 5. If you have a non-english version of the original game, you need to start JA2-Stracciatella with parameter telling which version of the game you are using.  For example
 
-   - ```ja2.exe -resversion FRENCH``` on Windows.
-   - ```ja2 -resversion FRENCH``` on Linux, BSD or OS X.
+   - `ja2.exe -resversion FRENCH` on Windows.
+   - `ja2 -resversion FRENCH` on Linux, BSD or OS X.
 
    You should see the start screen now.
 
@@ -58,6 +58,7 @@ The project extracted many other hardcoded values from the original sources into
 Besides the hotkeys present in the original game, JA2S adds the following for greater ease of use:
 - scroll lock: toggle mouse grab in windowed mode
 - alt-r: reload held weapon
+- ctrl-shift-r: reload weapons of the whole group
 - ctrl-l: load game during enemy/militia turn
 - ctrl-n: switch between day and night head gear (goggles) for the whole squad
 - ctrl-q: swap hand items 
