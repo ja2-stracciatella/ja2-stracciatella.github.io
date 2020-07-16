@@ -42,16 +42,14 @@ A few data-altering [mods](https://github.com/ja2-stracciatella/ja2-stracciatell
 - Honest IMP quiz questions: the satirical answers now include the personality aspect that they would contribute to
 - O Fortuna: dramatic intro music for Jagged Alliance 2
 
-Pass the following flag when running JA2S (currently impossible from the launcher):
-```
--mod MOD_NAME    Start one of the game modifications. MOD_NAME is the
-                 name of modification, e.g. 'from-russia-with-love. See
-                 assets/mods folder for possible options'.
-```
-
 Several additional mods can be downloaded, conveniently [bundled in a single file](https://github.com/ja2-stracciatella/ja2-stracciatella-modpacks/releases/latest).
 They are not included with the engine due to scope or license problems. Unpack them alongside the others in the `mods` directory and run them the
 same way.
+
+If you own **JA2: Wildfire**, JA2S has basic support for it. You will need to install
+[this mod](https://github.com/ja2-stracciatella/mod-wildfire-maps) to make it work.
+
+If you're wondering how to run the game with mods, read [these instructions](how-to-run.md#extra-configuration-and-modding).
 
 ### Integrated Editor
 
