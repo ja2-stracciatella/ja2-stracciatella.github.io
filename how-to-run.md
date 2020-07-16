@@ -49,9 +49,18 @@ Further command line options are available. To list available options run
 - `ja2 -help` on Linux, BSD or OS X.
 
 ## Extra configuration and modding
-Advanced users can tweak additional options and make minor modifications by changing the values in their [game.json](https://raw.githubusercontent.com/ja2-stracciatella/ja2-stracciatella/master/assets/externalized/game.json).
+Advanced users can tweak additional options and make minor modifications by changing the values in their [game.json](https://raw.githubusercontent.com/ja2-stracciatella/ja2-stracciatella/master/assets/externalized/game.json). It's installed alongside the rest of the data and
+the launcher will show you the location where you can find it. You can make a copy and put it near your ja2.json configuration
+file, by creating a `data` folder for it. This way you won't lose your settings when you reinstall the engine.
 
-The project extracted many other hardcoded values from the original sources into editable text files stored in the [assets/externalized](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/assets/externalized) directory. You can edit weapons, ammo, shops, enemy weapon choices and much more!
+The project extracted many other hardcoded values from the original sources into editable text files stored in the [assets/externalized](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/assets/externalized) directory. You can edit weapons, ammo, shops, enemy weapon choices and much more — **at your own peril**!
+
+To use one of the [bundled or external mods](features.md#bundled-optional-mini-mods), enable them in the launcher or pass the following flag when running JA2S:
+```
+-mod MOD_NAME    Start one of the game modifications. MOD_NAME is the
+                 name of modification, e.g. 'from-russia-with-love. See
+                 assets/mods folder for possible options'.
+```
 
 # Extra Hotkeys
 
