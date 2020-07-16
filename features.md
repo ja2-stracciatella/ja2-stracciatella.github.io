@@ -8,8 +8,8 @@ title: ""
     + [GUI Launcher](#gui-launcher)
     + [Dead is Dead mode](#dead-is-dead-mode)
     + [Bundled optional mini-mods](#bundled-optional-mini-mods)
-    + [Integrated Editor](#integrated-editor)
     + [Wildfire support](#wildfire-support)
+    + [Integrated Editor](#integrated-editor)
 
 # Features
 
@@ -44,12 +44,20 @@ A few data-altering [mods](https://github.com/ja2-stracciatella/ja2-stracciatell
 
 Several additional mods can be downloaded, conveniently [bundled in a single file](https://github.com/ja2-stracciatella/ja2-stracciatella-modpacks/releases/latest).
 They are not included with the engine due to scope or license problems. Unpack them alongside the others in the `mods` directory and run them the
-same way.
-
-If you own **JA2: Wildfire**, JA2S has basic support for it. You will need to install
-[this mod](https://github.com/ja2-stracciatella/mod-wildfire-maps) to make it work.
+same way. For *JA2: Wildfire* read the next section.
 
 If you're wondering how to run the game with mods, read [these instructions](how-to-run.md#extra-configuration-and-modding).
+
+### Wildfire support
+*Note: added in 0.17.0.*
+
+Basic Wildfire support is present, with most of the data differences externalized. You need
+to have JA2, Wildfire and [this conversion](https://github.com/ja2-stracciatella/mod-wildfire-maps/releases)
+installed to start a Wildfire game. It is implemented as other [mods](#bundled-optional-mini-mods), so you can
+still play vanilla games too.
+
+Read the included [README](https://github.com/ja2-stracciatella/mod-wildfire-maps/blob/master/README.md)
+for detailed instructions and caveats.
 
 ### Integrated Editor
 
@@ -80,13 +88,3 @@ Examples:
 ![Debug land](/img/features/debug-land.png)
 ![Debug z-buffer](/img/features/debug-z-buffer.png)
 
-### Wildfire support
-*Note: added in 0.17.0.*
-
-Basic Wildfire support is present, with most of the data differences externalized. You need
-to have JA2, Wildfire and [this conversion](https://github.com/ja2-stracciatella/mod-wildfire-maps/releases)
-installed to start a Wildfire game. It is implemented as other [mods](#bundled-optional-mini-mods), so you can
-still play vanilla games too.
-
-Read the included [README](https://github.com/ja2-stracciatella/mod-wildfire-maps/blob/master/README.md)
-for detailed instructions and caveats.
