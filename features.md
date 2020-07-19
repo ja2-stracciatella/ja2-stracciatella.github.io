@@ -23,7 +23,9 @@ Added support for high video resolutions. For example, game can be started in 16
 *Note: added in 0.16.0.*
 
 A GUI Launcher is included to facilitate changing settings and tweaking the game.
-![JA2 Stracciatella launcher](https://user-images.githubusercontent.com/775439/32501231-c762e246-c3d7-11e7-9f41-143ccf88dead.png)
+![JA2 Stracciatella launcher tab 1](/img/features/launcher-tab1.jpg)
+![JA2 Stracciatella launcher tab 2](/img/features/launcher-tab1.jpg)
+![JA2 Stracciatella launcher tab 3](/img/features/launcher-tab1.jpg)
 
 ### Dead is Dead mode
 *Note: added in 0.16.0.*
