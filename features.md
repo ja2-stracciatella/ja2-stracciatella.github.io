@@ -15,15 +15,17 @@ title: "Features"
 *Note: added in 0.16.0.*
 
 A GUI Launcher is included to facilitate changing settings and tweaking the game.
-![JA2 Stracciatella launcher tab 1](/img/features/launcher-tab1.jpg)
-![JA2 Stracciatella launcher tab 2](/img/features/launcher-tab1.jpg)
-![JA2 Stracciatella launcher tab 3](/img/features/launcher-tab1.jpg)
+<img src="/img/features/launcher-tab1.jpg" style="max-width: 32.5%" alt="JA2 Stracciatella launcher tab 1">
+<img src="/img/features/launcher-tab2.jpg" style="max-width: 32.5%" alt="JA2 Stracciatella launcher tab 2">
+<img src="/img/features/launcher-tab3.jpg" style="max-width: 32.5%" alt="JA2 Stracciatella launcher tab 3">
+
 
 ## High Resolution Support
 
 Added support for high video resolutions. For example, game can be started in 1680x1050  mode like this: `ja2.exe -res 1680x1050`.
 
-![Ja2 Stracciatella in 1680x1050 resolution](/img/features/high-res.jpg)
+<img src="/img/features/high-res.jpg" style="max-width: 50%" alt="JA2 Stracciatella in 1680x1050 resolution">
+
 
 ## Dead is Dead mode
 *Note: added in 0.16.0.*
@@ -33,6 +35,7 @@ Dead is Dead is a new game mode for players looking for a new challenge, and who
 You select one savegame slot at the beginning of a new game, and the game will stick to that slot throughout your playthrough. The game will also make sure to save before you leave, so you can rest assured you will always be able to pick up at where you left.
 
 With Dead is Dead there is no going back. If mercs die, there is no way of bringing them back. If you make a mistake, there is no way of reverting it. So be careful, play it safe, and prepare to be frustrated.
+
 
 ## Bundled optional mini-mods
 *Note: added in 0.16.0.*
@@ -48,6 +51,7 @@ same way. For *JA2: Wildfire* read the next section.
 
 If you're wondering how to run the game with mods, read [these instructions](how-to-run.md#extra-configuration-and-modding).
 
+
 ## Wildfire support
 *Note: added in 0.17.0.*
 
@@ -59,11 +63,13 @@ still play vanilla games too.
 Read the included [README](https://github.com/ja2-stracciatella/mod-wildfire-maps/blob/master/README.md)
 for detailed instructions and caveats.
 
+
 ## Integrated Editor
 
 The map editor is now integrated into the game. Start it through the launcher or like this: `ja2.exe -editor`.
 
-![Ja2 Stracciatella Editor](/img/features/integrated-editor.jpg)
+<img src="/img/features/integrated-editor.jpg" style="max-width: 50%" alt="JA2 Stracciatella Editor">
+
 
 ## Debug screens
 *Note: added in 0.15.0.*
@@ -84,7 +90,6 @@ To exit any screen press `q`. To cycle through different pages use `pageup` and 
 
 Examples:
 
-![Debug soldier](/img/features/debug-soldier.png)
-![Debug land](/img/features/debug-land.png)
-![Debug z-buffer](/img/features/debug-z-buffer.png)
-
+<img src="/img/features/debug-soldier.png" style="max-width: 49%" alt="Debug soldier">
+<img src="/img/features/debug-land.png" style="max-width: 49%" alt="Debug land">
+<img src="/img/features/debug-z-buffer.png" style="max-width: 49%" alt="Debug z-buffer">
