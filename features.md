@@ -1,25 +1,17 @@
 ---
 layout: page
-title: ""
+title: "Features"
 ---
 
-- [Features](#features)
-    + [High Resolution Support](#high-resolution-support)
-    + [GUI Launcher](#gui-launcher)
-    + [Dead is Dead mode](#dead-is-dead-mode)
-    + [Bundled optional mini-mods](#bundled-optional-mini-mods)
-    + [Wildfire support](#wildfire-support)
-    + [Integrated Editor](#integrated-editor)
+  - [GUI Launcher](#gui-launcher)
+  - [High Resolution Support](#high-resolution-support)
+  - [Dead is Dead mode](#dead-is-dead-mode)
+  - [Bundled optional mini-mods](#bundled-optional-mini-mods)
+  - [Wildfire support](#wildfire-support)
+  - [Integrated Editor](#integrated-editor)
 
-# Features
 
-### High Resolution Support
-
-Added support for high video resolutions. For example, game can be started in 1680x1050  mode like this: `ja2.exe -res 1680x1050`.
-
-![Ja2 Stracciatella in 1680x1050 resolution](/img/features/high-res.jpg)
-
-### GUI Launcher 
+## GUI Launcher
 *Note: added in 0.16.0.*
 
 A GUI Launcher is included to facilitate changing settings and tweaking the game.
@@ -27,7 +19,13 @@ A GUI Launcher is included to facilitate changing settings and tweaking the game
 ![JA2 Stracciatella launcher tab 2](/img/features/launcher-tab1.jpg)
 ![JA2 Stracciatella launcher tab 3](/img/features/launcher-tab1.jpg)
 
-### Dead is Dead mode
+## High Resolution Support
+
+Added support for high video resolutions. For example, game can be started in 1680x1050  mode like this: `ja2.exe -res 1680x1050`.
+
+![Ja2 Stracciatella in 1680x1050 resolution](/img/features/high-res.jpg)
+
+## Dead is Dead mode
 *Note: added in 0.16.0.*
 
 Dead is Dead is a new game mode for players looking for a new challenge, and who think IronMan doesn't cut it just yet. With the Dead is Dead mode the game takes the burden of saving and savegame management from your shoulders so you can concentrate on the important bits. 
@@ -36,7 +34,7 @@ You select one savegame slot at the beginning of a new game, and the game will s
 
 With Dead is Dead there is no going back. If mercs die, there is no way of bringing them back. If you make a mistake, there is no way of reverting it. So be careful, play it safe, and prepare to be frustrated.
 
-### Bundled optional mini-mods
+## Bundled optional mini-mods
 *Note: added in 0.16.0.*
 
 A few data-altering [mods](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/assets/mods) are included, but must be explicitly selected to be used:
@@ -50,7 +48,7 @@ same way. For *JA2: Wildfire* read the next section.
 
 If you're wondering how to run the game with mods, read [these instructions](how-to-run.md#extra-configuration-and-modding).
 
-### Wildfire support
+## Wildfire support
 *Note: added in 0.17.0.*
 
 Basic Wildfire support is present, with most of the data differences externalized. You need
@@ -61,13 +59,13 @@ still play vanilla games too.
 Read the included [README](https://github.com/ja2-stracciatella/mod-wildfire-maps/blob/master/README.md)
 for detailed instructions and caveats.
 
-### Integrated Editor
+## Integrated Editor
 
 The map editor is now integrated into the game. Start it through the launcher or like this: `ja2.exe -editor`.
 
 ![Ja2 Stracciatella Editor](/img/features/integrated-editor.jpg)
 
-### Debug screens
+## Debug screens
 *Note: added in 0.15.0.*
 
 Some debug screens are accessible when using the `-debug` parameter.
