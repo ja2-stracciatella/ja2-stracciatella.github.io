@@ -18,8 +18,8 @@ build64: -141
 - <span class="fa fa-lg fa-windows"></span>&nbsp; [Windows zip file 32 bit]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_win-msvc32{{ page.build32 }}.zip)
 - <span class="fa fa-lg fa-linux"></span>&nbsp; [Debian Package for amd64 systems]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_amd64.deb)
 - <span class="fa fa-lg fa-apple"></span>&nbsp; [macOS bundle]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_macos.dmg)
-- [Source .zip](https://github.com/ja2-stracciatella/ja2-stracciatella/archive/{{ page.release }}.zip)
-- [Source .tar.gz](https://github.com/ja2-stracciatella/ja2-stracciatella/archive/{{ page.release }}.tar.gz)
+- [Source .zip](https://github.com/ja2-stracciatella/ja2-stracciatella/archive/v{{ page.release }}.zip)
+- [Source .tar.gz](https://github.com/ja2-stracciatella/ja2-stracciatella/archive/v{{ page.release }}.tar.gz)
 
 
 ### Previous Releases
