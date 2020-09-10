@@ -31,12 +31,12 @@ title-img: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  News: "news"
-  Features: "features"
-  How to run: "how-to-run"
-  Bugs: "development"
-  History: "history"
-  Download: "download"
+  News: "news/"
+  Features: "features/"
+  How to run: "how-to-run/"
+  Bugs: "development/"
+  History: "history/"
+  Download: "download/"
 
 # --- Footer options --- #
 
