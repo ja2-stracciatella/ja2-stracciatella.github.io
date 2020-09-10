@@ -57,6 +57,7 @@ hover-col: "#e79408"
 # Custom styles
 site-css:
   - "/css/ja2-stracciatella.css"
+  - "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
 
 # --- Misc --- #
 
