@@ -1,3 +1,8 @@
+# --- Set theme --- #
+remote_theme: "daattali/beautiful-jekyll@4.1.0"
+plugins:
+  - jekyll-remote-theme
+
 # --- Serving options --- #
 
 # url is the full website URL
@@ -21,13 +26,11 @@ description: This is continuation of venerable JA2-Stracciatella project. The go
 
 # --- Navigation bar options --- #
 
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+title-img: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "/"
   News: "news"
   Features: "features"
   How to run: "how-to-run"
@@ -39,106 +42,31 @@ navbar-links:
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: JA2 Stracciatella Team
-  github: ja2-stracciatella
+author: JA2 Stracciatella Team
 
 # Select which links to show in the footer
-footer-links-active:
-  facebook: false
+social-network-links:
+  github: ja2-stracciatella/ja2-stracciatella
   rss: true
-  email: false
-  twitter: false
-  github: true
-  linkedin: false
-  stackoverflow: false
+
+# Colors
+
+link-col: "#9c2111"
+hover-col: "#e79408"
+
+# Custom styles
+site-css:
+  - "/css/ja2-stracciatella.css"
 
 # --- Misc --- #
 
 collections:
   - history
 
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
-
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
-
-# --- Don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-
-# Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: false  # add comments to all blog posts
   -
     scope:
       path: "" # all files
     values:
-      layout: "default"
-
-# Exclude these files from production site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-  - Vagrantfile
-
-# prose.io config
-prose:
-  rooturl: '_posts'
-  media: 'img'
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
-        field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+      layout: "page"
+      show-avatar: true
