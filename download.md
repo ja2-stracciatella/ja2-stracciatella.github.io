@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /download/
 title: ""
 dlUrl: https://github.com/ja2-stracciatella/ja2-stracciatella/releases/download
 release: 0.17.0

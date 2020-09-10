@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /development/
 ---
 
 All development is done in the open, in GitHub [repositories](https://github.com/ja2-stracciatella) and [trackers](https://github.com/ja2-stracciatella/ja2-stracciatella/issues).

@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /how-to-run/
 ---
 
 - [How to Run](#how-to-run)
