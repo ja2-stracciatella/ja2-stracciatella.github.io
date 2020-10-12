@@ -11,7 +11,7 @@ permalink: /how-to-run/
 
 # How to Run
 
-1. Install original Jagged Alliance 2 game on your computer. Make sure you do a full install. Data files from the original game will be used by JA2 Stracciatella. 
+1. Install the **original Jagged Alliance 2 game** on your computer. Make sure you do a full install. Data files from the original game will be used by JA2 Stracciatella. 
 
 2. [Download JA2-Stracciatella](/download) or [compile](https://github.com/ja2-stracciatella/ja2-stracciatella/blob/master/COMPILATION.md) it from the source codes. Install it wherever you want.
 
