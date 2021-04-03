@@ -86,3 +86,8 @@ code {
 .hist-goup a::before {
   content: "▲ ";
 }
+
+/* fix lack of spacing between tables and other elements without top padding/margin, eg. h2 on Features */
+table {
+  margin-bottom: 1.875rem;
+}
