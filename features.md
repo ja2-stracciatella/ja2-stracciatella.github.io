@@ -4,6 +4,17 @@ permalink: /features/
 title: "Features"
 ---
 
+Stracciatella walks a fine line between preserving the original gameplay, adding ease-of-life
+improvements and providing new inobtrusive optional features. On the internal side, code cleanup
+has been a major focus of the project, easily illustrated by comparing the amount of code in
+related engines (as of March 2021):
+
+Engine            | Lines of code | Relative 
+------------------|---------------|---------
+Original JA2      | 1,222,384 | 100 %
+**Stracciatella** |   851,152 | 69,6 %
+JA2 1.13          | 2,184,310 | 178,7 %
+
   - [GUI Launcher](#gui-launcher)
   - [High Resolution Support](#high-resolution-support)
   - [Dead is Dead mode](#dead-is-dead-mode)
