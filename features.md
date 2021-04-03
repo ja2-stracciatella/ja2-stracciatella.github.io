@@ -14,14 +14,39 @@ improvements and providing new inobtrusive optional features.
   - [Wildfire support](#wildfire-support)
   - [Integrated Editor](#integrated-editor)
 
-On the internal side, good-code-as-a-feature has been a major focus of the project, easily
+On the internal side, good code as-a-feature has been a major focus of the project, easily
 illustrated by comparing the amount of code in related engines (as of March 2021):
 
-Engine            | Lines of code | Difference 
-------------------|---------------|-----------
-Original JA2      | 1,222,384 | -
-**Stracciatella** |   851,152 | -30,4 %
-JA2 1.13          | 2,184,310 | +78,7 %
+<table>
+  <thead>
+    <tr>
+      <th>Engine</th>
+      <th>Lines of code</th>
+      <th>Difference</th>
+      <th>Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Original JA2</td>
+      <td style="text-align: right;">1,222,384</td>
+      <td style="text-align: center;">-</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td><strong>Stracciatella</strong></td>
+      <td style="text-align: right;">851,152</td>
+      <td style="text-align: center;">-30,4 %</td>
+      <td>C++, Rust, (LUA)</td>
+    </tr>
+    <tr>
+      <td>JA2 1.13</td>
+      <td style="text-align: right;">2,184,310</td>
+      <td style="text-align: center;">+78,7 %</td>
+      <td>C++, (LUA)</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## GUI Launcher
