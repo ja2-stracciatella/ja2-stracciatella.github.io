@@ -5,15 +5,7 @@ title: "Features"
 ---
 
 Stracciatella walks a fine line between preserving the original gameplay, adding ease-of-life
-improvements and providing new inobtrusive optional features. On the internal side, code cleanup
-has been a major focus of the project, easily illustrated by comparing the amount of code in
-related engines (as of March 2021):
-
-Engine            | Lines of code | Relative 
-------------------|---------------|---------
-Original JA2      | 1,222,384 | 100 %
-**Stracciatella** |   851,152 | 69,6 %
-JA2 1.13          | 2,184,310 | 178,7 %
+improvements and providing new inobtrusive optional features.
 
   - [GUI Launcher](#gui-launcher)
   - [High Resolution Support](#high-resolution-support)
@@ -21,6 +13,15 @@ JA2 1.13          | 2,184,310 | 178,7 %
   - [Bundled optional mini-mods](#bundled-optional-mini-mods)
   - [Wildfire support](#wildfire-support)
   - [Integrated Editor](#integrated-editor)
+
+On the internal side, good-code-as-a-feature has been a major focus of the project, easily
+illustrated by comparing the amount of code in related engines (as of March 2021):
+
+Engine            | Lines of code | Difference 
+------------------|---------------|-----------
+Original JA2      | 1,222,384 | -
+**Stracciatella** |   851,152 | -30,4 %
+JA2 1.13          | 2,184,310 | +78,7 %
 
 
 ## GUI Launcher
