@@ -76,6 +76,7 @@ Besides the hotkeys present in the original game, JA2S adds the following for gr
 - ctrl-n: switch between day and night head gear (goggles) for the whole squad
 - ctrl-q: swap hand items 
 - shift-j: climb through open window
+- f: display chance to hit percentages for given tile
 
 These require you toggle a game.json switch:
 - d: switch to turnbased mode from realtime
