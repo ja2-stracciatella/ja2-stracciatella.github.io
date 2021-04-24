@@ -4,14 +4,15 @@ permalink: /download/
 title: ""
 dlUrl: https://github.com/ja2-stracciatella/ja2-stracciatella/releases/download
 release: 0.18.0
-tag: 0.18.0+ebc73ce
+releaseDate: 2021-04-23
+tag: 0.18.0-git+ebc73ce
 build32: -142
 build64: -142
 ---
 
 # Download
 
-### Current Release: v0.17.0 (2020-08-03)
+### Current Release: v{{ page.release }} ({{ page.releaseDate }})
 
 - <span class="fa fa-lg fa-windows"></span>&nbsp; [Windows installer 64 bit]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_win-msvc64{{ page.build64 }}.exe)
 - <span class="fa fa-lg fa-windows"></span>&nbsp; [Windows installer 32 bit]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_win-msvc32{{ page.build32 }}.exe)
