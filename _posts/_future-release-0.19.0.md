@@ -17,6 +17,8 @@ __New Features__:
   - The optional chance-to-hit now accounts for aiming and is not tied to F, but `show_hit_chance` in `game.json`
   - Improvements to the android work-in-progress port
 
+**NOTE**: automatic brightness correction has been disabled, so pass eg. `-brightness 1.3` on the command line if you need to increase brightness/gamma to 130%.
+
 We are shipping pre-built packages for Linux, Windows and OS X. This should help users to easily get started with Jagged Alliance 2 Stracciatella. For users willing to take a risk we also provide automatically created [nightly builds](http://builds-ja2.stefanlau.com/nightlies/).
 
 __Download__:
