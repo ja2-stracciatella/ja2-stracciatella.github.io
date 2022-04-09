@@ -5,7 +5,7 @@ title: Release 0.19.0
 
 The Jagged Alliance 2 Stracciatella team is proud to present a new release showcasing a year of work. It includes several new features, plenty of bugfixes compared to previous versions and the original game, clean-ups of the old code base, and most notably a new saving&loading screen. Our Chinese fans will now be able to play the game in their own language (zh_CN).
 
-(stats as of 2022-04-03) Through 249 commits at least 37 bugs were fixed, 15 of which are known to affect vanilla.
+(stats as of 2022-04-03) Through 249 commits at least 38 bugs were fixed, 15 of which are known to affect vanilla.
 
 __New Features__:
   - (Simplified) Chinese language support
@@ -65,6 +65,7 @@ __Main Changelog__:
 - Bugfix: Error saving game (#1472)
 - Bugfix: Fix #1379: Read and reset sector flags when removing temp files (#1381)
 - Bugfix: Truncated error message when failing to build virtual file system (VFS) (#1433)
+- Bugfix: Passing bad command-line flags doesn't show the whole -help (#1494)
 - Editor: Better editor save load dialog (#1362)
 - Editor: Slf archive and folder confusion (#667)
 - Enhancement: Supporting chinese localization (#810)
