@@ -5,7 +5,7 @@ title: Release 0.19.0
 
 The Jagged Alliance 2 Stracciatella team is proud to present a new release showcasing a year of work. It includes several new features, plenty of bugfixes compared to previous versions and the original game, clean-ups of the old code base, and most notably a new saving&loading screen. Our Chinese fans will now be able to play the game in their own language (zh_CN).
 
-(stats as of 2022-04-03) Through 249 commits at least 38 bugs were fixed, 15 of which are known to affect vanilla.
+(stats as of 2022-14-03) Through 275 commits at least 41 bugs were fixed, 15 of which are known to affect vanilla.
 
 __New Features__:
   - (Simplified) Chinese language support
@@ -15,7 +15,7 @@ __New Features__:
     - Mods can provide manifest files with important metadata — to be displayed in the launcher and stored in saved games
   - Configurable website loading time, maximum squad size game speed and an option to refill totally defeated patrol groups (set in `game.json`)
   - The optional chance-to-hit now accounts for aiming and is not tied to F, but `show_hit_chance` in `game.json`
-  - Improvements to the android work-in-progress port
+  - Improvements to the android work-in-progress port and support for the Apple M1 chips
 
 **NOTE**: automatic brightness correction has been disabled, so pass eg. `-brightness 1.3` on the command line if you need to increase brightness/gamma to 130%.
 
@@ -66,6 +66,9 @@ __Main Changelog__:
 - Bugfix: Fix #1379: Read and reset sector flags when removing temp files (#1381)
 - Bugfix: Truncated error message when failing to build virtual file system (VFS) (#1433)
 - Bugfix: Passing bad command-line flags doesn't show the whole -help (#1494)
+- Bugfix: Update fltk library to version 1.3.8 (#1500)
+- Bugfix: Remove explicit architecture in macOS toolchain file (#1506)
+- Bugfix: Update SDL2 to 2.0.20 for macOS (#1505)
 - Editor: Better editor save load dialog (#1362)
 - Editor: Slf archive and folder confusion (#667)
 - Enhancement: Supporting chinese localization (#810)
