@@ -5,7 +5,7 @@ title: Release 0.19.0
 
 The Jagged Alliance 2 Stracciatella team is proud to present a new release showcasing a year of work. It includes several new features, plenty of bugfixes compared to previous versions and the original game, clean-ups of the old code base, and most notably a new saving&loading screen. Our Chinese fans will now be able to play the game in their own language (zh_CN).
 
-(stats as of 2022-14-03) Through 275 commits at least 41 bugs were fixed, 15 of which are known to affect vanilla.
+(stats as of 2022-04-13) Through 275 commits at least 41 bugs were fixed, 15 of which are known to affect vanilla.
 
 __New Features__:
   - (Simplified) Chinese language support
