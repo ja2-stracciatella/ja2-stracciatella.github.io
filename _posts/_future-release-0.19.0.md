@@ -19,7 +19,7 @@ __New Features__:
 
 **NOTE**: automatic brightness correction has been disabled, so pass eg. `-brightness 1.3` on the command line if you need to increase brightness/gamma to 130%.
 
-We are shipping pre-built packages for Linux, Windows and OS X. This should help users to easily get started with Jagged Alliance 2 Stracciatella. For users willing to take a risk we also provide automatically created [nightly builds](https://storage.googleapis.com/ja2-builds/index.html#nightlies/).
+We are shipping pre-built packages for Linux, Windows and macOS. This should help users to easily get started with Jagged Alliance 2 Stracciatella. For users willing to take a risk we also provide automatically created [nightly builds](https://storage.googleapis.com/ja2-builds/index.html#nightlies/).
 
 __Download__:
 [http://ja2-stracciatella.github.io/download/](http://ja2-stracciatella.github.io/download/)
