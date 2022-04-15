@@ -17,7 +17,9 @@ __New Features__:
   - The optional chance-to-hit now accounts for aiming and is not tied to F, but `show_hit_chance` in `game.json`
   - Improvements to the android work-in-progress port and support for the Apple M1 chips
 
-**NOTE**: automatic brightness correction has been disabled, so pass eg. `-brightness 1.3` on the command line if you need to increase brightness/gamma to 130%.
+**IMPORTANT**: If you had several save game folders from using different mods, you will have to manually (arbitrarily) rename the files and move them into the main `SavedGames` folder.
+
+**NOTE**: Automatic brightness correction has been disabled, so pass eg. `-brightness 1.3` on the command line if you need to increase brightness/gamma to 130%.
 
 We are shipping pre-built packages for Linux, Windows and macOS. This should help users to easily get started with Jagged Alliance 2 Stracciatella. For users willing to take a risk we also provide automatically created [nightly builds](https://storage.googleapis.com/ja2-builds/index.html#nightlies/).
 
