@@ -10,9 +10,11 @@ improvements and providing new inobtrusive optional features.
   - [GUI Launcher](#gui-launcher)
   - [High Resolution Support](#high-resolution-support)
   - [Dead is Dead mode](#dead-is-dead-mode)
+  - [Infinite save games](#infinite-save-games)
   - [Bundled optional mini-mods](#bundled-optional-mini-mods)
   - [Wildfire support](#wildfire-support)
   - [Integrated Editor](#integrated-editor)
+  - [Debug screens](#debug-screens)
 
 On the internal side, good code as-a-feature has been a major focus of the project, easily
 illustrated by comparing the amount of code in related engines (as of March 2021):
@@ -73,6 +75,12 @@ Dead is Dead is a new game mode for players looking for a new challenge, and who
 You select one savegame slot at the beginning of a new game, and the game will stick to that slot throughout your playthrough. The game will also make sure to save before you leave, so you can rest assured you will always be able to pick up at where you left.
 
 With Dead is Dead there is no going back. If mercs die, there is no way of bringing them back. If you make a mistake, there is no way of reverting it. So be careful, play it safe, and prepare to be frustrated.
+
+
+## Infinite save games
+
+The engine now supports saving and loading of arbitrarily named saved games, and an arbitrary number of them.
+The load screen is enhanced with game mode, difficuly and mod info plus a scrollbar.
 
 
 ## Bundled optional mini-mods
