@@ -82,6 +82,7 @@ With Dead is Dead there is no going back. If mercs die, there is no way of bring
 The engine now supports saving and loading of arbitrarily named saved games, and an arbitrary number of them.
 The load screen is enhanced with game mode, difficuly and mod info plus a scrollbar.
 
+<img src="/img/features/new_saveload.jpg" style="max-width: 50%" alt="JA2 Stracciatella's enhanced load screen">
 
 ## Bundled optional mini-mods
 *Note: added in 0.16.0.*
