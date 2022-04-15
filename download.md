@@ -3,9 +3,9 @@ layout: page
 permalink: /download/
 title: ""
 dlUrl: https://github.com/ja2-stracciatella/ja2-stracciatella/releases/download
-release: 0.18.0
-releaseDate: 2021-04-23
-tag: 0.18.0-git+ebc73ce
+release: 0.19.0
+releaseDate: 2022-04-15
+tag: 0.19.0-git+27afbca
 build32: -142
 build64: -142
 ---
