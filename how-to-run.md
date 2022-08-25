@@ -58,6 +58,9 @@ The project extracted many other hardcoded values from the original sources into
 choices and much more — **at your own peril**! You can copy them to your user directory the same way as `game.json`. This
 also applies to installing 3rd-party mods.
 
+If you're using the AppImage version and want to modify any of the json files, create `~/.ja2/data` and copy them inside. They 
+will have precedence over the files supplied by us.
+
 To use one of the [bundled or external mods](features.md#bundled-optional-mini-mods), enable them in the launcher or pass
 the following flag when running JA2S:
 ```
