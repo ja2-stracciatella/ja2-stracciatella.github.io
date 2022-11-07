@@ -5,7 +5,7 @@ title: Release 0.20.0
 
 The Jagged Alliance 2 Stracciatella team is proud to present a new release showcasing about half a year of work. It includes several new features, plenty of bugfixes compared to previous versions and the original game, clean-ups of the old code base, and most notably the first official release of the Android version and support for touch controls.
 
-Through 490 commits at least 38 bugs were fixed, 8 of which are known to affect vanilla.
+Through 490 commits at least 76 bugs were fixed, 20 of which are known to affect vanilla.
 
 ## New Features:
   - Touch Controls: Control your mercenaries with the touch of a finger on touch-devices
@@ -14,8 +14,6 @@ Through 490 commits at least 38 bugs were fixed, 8 of which are known to affect 
     - More hardcoded values and assumptions are now externalized to additional or improved json files for easy editing in JSON: item names, item descriptions, aim and range bonuses
     - More extension points for LUA scripting: change shop inventory and prices, react to merc hiring, create message boxes
   - Stability Improvements: Fixes in memory management should lead to improved stability and less crashes
-
-**IMPORTANT**: TODO CHECK IF OLD AND NEW ANDROID VERSIONS ARE COMPATIBLE
 
 **IMPORTANT**: If you used older versions of JA2 Stracciatella on Android before you might need to uninstall them before installing the new release. Make sure to backup your data before doing this as it might erase your saves.
 

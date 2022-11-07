@@ -4,8 +4,8 @@ permalink: /download/
 title: ""
 dlUrl: https://github.com/ja2-stracciatella/ja2-stracciatella/releases/download
 release: 0.20.0
-releaseDate: 2022-TODO-TODO
-tag: 0.20.0-git+TODO
+releaseDate: 2022-11-14
+tag: 0.20.0-git+439a6d3
 build32: -142
 build64: -142
 ---
@@ -20,6 +20,7 @@ build64: -142
 - <span class="fa fa-lg fa-windows"></span>&nbsp; [Windows zip file 32 bit]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_win-msvc32{{ page.build32 }}.zip)
 - <span class="fa fa-lg fa-linux"></span>&nbsp; [Linux AppImage for 64 bit systems]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_x86-64.AppImage )
 - <span class="fa fa-lg fa-apple"></span>&nbsp; [macOS bundle]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_macos.dmg)
+- <span class="fa fa-lg fa-android"></span>&nbsp; [Android APK]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_android.apk)
 - [Source .zip](https://github.com/ja2-stracciatella/ja2-stracciatella/archive/v{{ page.release }}.zip)
 - [Source .tar.gz](https://github.com/ja2-stracciatella/ja2-stracciatella/archive/v{{ page.release }}.tar.gz)
 
