@@ -12,7 +12,7 @@ improvements and providing new inobtrusive optional features.
   - [Extra Hotkeys](#extra-hotkeys)
   - [Dead is Dead mode](#dead-is-dead-mode)
   - [Infinite save games](#infinite-save-games)
-  - [Bundled optional mini-mods](#bundled-optional-mini-mods)
+  - [Better modding support](#better-modding-support)
   - [Wildfire support](#wildfire-support)
   - [Integrated Editor](#integrated-editor)
   - [Debug screens](#debug-screens)
@@ -103,19 +103,11 @@ The load screen is enhanced with game mode, difficuly and mod info plus a scroll
 
 <img src="/img/features/new_saveload.jpg" style="max-width: 50%" alt="JA2 Stracciatella's enhanced load screen">
 
-## Bundled optional mini-mods
-*Note: added in 0.16.0.*
 
-A few data-altering [mods](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/assets/mods) are included, but must be explicitly selected to be used:
-- Generous Rebels, From Russia With Love: extra items in Omerta
-- Honest IMP quiz questions: the satirical answers now include the personality aspect that they would contribute to
-- O Fortuna: dramatic intro music for Jagged Alliance 2
+## Better modding support
+Mods are easier to make and users are empowered to tweak the game themselves. See our dedicated page on modding and available [mods](mods.md).
 
-Several additional mods can be downloaded, conveniently [bundled in a single file](https://github.com/ja2-stracciatella/ja2-stracciatella-modpacks/releases/latest).
-They are not included with the engine due to scope or license problems. Unpack them alongside the others in the `mods` directory and run them the
-same way. For *JA2: Wildfire* read the next section.
-
-If you're wondering how to run the game with mods, read [these instructions](how-to-run.md#extra-configuration-and-modding).
+To use one of the mods, enable them in the launcher or pass the `-mod` flag on the command line.
 
 
 ## Wildfire support

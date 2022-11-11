@@ -6,7 +6,7 @@ permalink: /how-to-run/
 - [How to Run](#how-to-run)
   * [With the optional launcher](#with-the-optional-launcher)
   * [Without the optional launcher](#without-the-optional-launcher)
-- [Extra configuration and modding](#extra-configuration-and-modding)
+
 
 # How to Run
 
@@ -48,23 +48,4 @@ Further command line options are available. To list available options run
 - `ja2.exe -help` on Windows.
 - `ja2 -help` on Linux, BSD or OS X.
 
-## Extra configuration and modding
-Advanced users can tweak additional options and make minor modifications by changing the values in their [game.json](https://raw.githubusercontent.com/ja2-stracciatella/ja2-stracciatella/master/assets/externalized/game.json). It's installed alongside the rest of the data and
-the launcher will show you the location where you can find it. You can make a copy and put it near your ja2.json configuration
-file, by creating a `data` folder for it. This way you won't lose your settings when you reinstall the engine.
-
-The project extracted many other hardcoded values from the original sources into editable text files stored in the [assets/externalized](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/assets/externalized) directory. You can edit weapons, ammo, shops, enemy weapon
-choices and much more — **at your own peril**! You can copy them to your user directory the same way as `game.json`. This
-also applies to installing 3rd-party mods.
-
-If you're using the AppImage version and want to modify any of the json files, create `~/.ja2/data` and copy them inside. They 
-will have precedence over the files supplied by us.
-
-To use one of the [bundled or external mods](features.md#bundled-optional-mini-mods), enable them in the launcher or pass
-the following flag when running JA2S:
-```
--mod MOD_NAME    Start one of the game modifications. MOD_NAME is the
-                 name of modification, e.g. 'from-russia-with-love. See
-                 assets/mods folder for possible options'.
-```
-
+**For even more configuration options check the [modding](mods.md) page.**
