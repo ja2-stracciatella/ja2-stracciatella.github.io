@@ -4,7 +4,7 @@ permalink: /mods/
 ---
 
 - [Extra configuration](#extra-configuration)
-  * [game.json](#game.json)
+  * [game.json](#gamejson)
   * [Other externalized settings](#other-externalized-settings)
 - [List of mods](#list-of-mods)
   * [Bundled mini-mods](#bundled-mini-mods)
@@ -17,7 +17,7 @@ permalink: /mods/
 ## Extra configuration
 ### `game.json`
 Advanced users can tweak additional options and make minor modifications by changing the values in their [game.json](https://raw.githubusercontent.com/ja2-stracciatella/ja2-stracciatella/master/assets/externalized/game.json). It's installed alongside the rest of the data and
-the launcher will show you the location where you can find it. You can make a copy and put it near your ja2.json configuration
+the launcher will show you the location where you can find it. You can make a copy and put it near your `ja2.json` configuration
 file, by creating a `data` folder for it. This way you won't lose your settings when you reinstall the engine.
 
 ### Other externalized settings
@@ -31,22 +31,22 @@ will have precedence over the files supplied by us.
 ## List of mods
 ### Bundled mini-mods
 A few data-altering [mods](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/assets/mods) are included with JA2S, but **must be explicitly selected to be used**:
-  - `Generous Rebels`, `From Russia With Love`: extra items in Omerta
-  - `Honest IMP quiz questions`: the satirical answers now include the personality aspect that they would contribute to
-  - `O Fortuna`: dramatic intro music for Jagged Alliance 2
+  - **Generous Rebels**, **From Russia With Love**: extra items in Omerta
+  - **Honest IMP quiz questions**: the satirical answers now include the personality aspect that they would contribute to
+  - **O Fortuna**: dramatic intro music for Jagged Alliance 2
 
 ### Other official mods
-Several additional mods can be downloaded from our [GitHub organization](). Either individually or conveniently [bundled in a single file](https://github.com/ja2-stracciatella/ja2-stracciatella-modpacks/releases/latest).
+Several additional mods can be downloaded from our [GitHub organization](https://github.com/ja2-stracciatella). Either individually or conveniently [bundled in a single file](https://github.com/ja2-stracciatella/ja2-stracciatella-modpacks/releases/latest).
 
 Currently the bundle includes:
-  - `Stracciatella Gun Pack by Kaerar`
-  - `Night Ops map pack for JA2`: Map pack for JA2 Stracciatella, adapted from the Night Ops JA2 mod
+  - **Stracciatella Gun Pack by Kaerar**
+  - **Night Ops map pack for JA2**: Map pack for JA2 Stracciatella, adapted from the Night Ops JA2 mod
 
 Then there is of course the [Wildfire support mod](features.md#wildfire-support).
 
 ### External mods
 Mods not hosted by us include:
-  - `az75's map pack`: See [forum thread](http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=24842&prevloaded=1&&start=40). Contact via forum or Discord (az75 ) for latest version
+  - **Azazel's custom map pack**: See [forum thread](http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=24842&prevloaded=1&&start=40). Contact via forum or Discord (az75) for latest version
 
 Let us know if you're working on a mod, so we can feature it here!
 
