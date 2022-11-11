@@ -7,7 +7,6 @@ permalink: /how-to-run/
   * [With the optional launcher](#with-the-optional-launcher)
   * [Without the optional launcher](#without-the-optional-launcher)
 - [Extra configuration and modding](#extra-configuration-and-modding)
-- [Extra Hotkeys](#extra-hotkeys)
 
 # How to Run
 
@@ -69,19 +68,3 @@ the following flag when running JA2S:
                  assets/mods folder for possible options'.
 ```
 
-# Extra Hotkeys
-
-Besides the hotkeys present in the original game, JA2S adds the following for greater ease of use:
-- scroll lock: toggle mouse grab in windowed mode
-- alt-r: reload held weapon
-- ctrl-shift-r: reload weapons of the whole group
-- ctrl-l: load game during enemy/militia turn
-- ctrl-n: switch between day and night head gear (goggles) for the whole squad
-- ctrl-q: swap hand items 
-- shift-j: climb through open window
-- f: display chance to hit percentages for given tile
-
-These require you toggle a game.json switch:
-- d: switch to turnbased mode from realtime
-
-Additionally you can use the middle mouse button to make a merc look into the direction of the cursor.

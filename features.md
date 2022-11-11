@@ -9,6 +9,7 @@ improvements and providing new inobtrusive optional features.
 
   - [GUI Launcher](#gui-launcher)
   - [High Resolution Support](#high-resolution-support)
+  - [Extra Hotkeys](#extra-hotkeys)
   - [Dead is Dead mode](#dead-is-dead-mode)
   - [Infinite save games](#infinite-save-games)
   - [Bundled optional mini-mods](#bundled-optional-mini-mods)
@@ -67,10 +68,28 @@ Added support for high video resolutions. For example, game can be started in 16
 <img src="/img/features/high-res.jpg" style="max-width: 50%" alt="JA2 Stracciatella in 1680x1050 resolution">
 
 
+# Extra Hotkeys
+
+Besides the hotkeys present in the original game, JA2S adds the following for greater ease of use:
+- scroll lock: toggle mouse grab in windowed mode
+- alt-r: reload held weapon
+- ctrl-shift-r: reload weapons of the whole group
+- ctrl-l: load game during enemy/militia turn
+- ctrl-n: switch between day and night head gear (goggles) for the whole squad
+- ctrl-q: swap hand items
+- shift-j: climb through open window
+- f: display chance to hit percentages for given tile
+
+These require you toggle a [game.json](mods.md) switch:
+- d: switch to turnbased mode from realtime
+
+Additionally you can use the middle mouse button to make a merc look into the direction of the cursor.
+
+
 ## Dead is Dead mode
 *Note: added in 0.16.0.*
 
-Dead is Dead is a new game mode for players looking for a new challenge, and who think IronMan doesn't cut it just yet. With the Dead is Dead mode the game takes the burden of saving and savegame management from your shoulders so you can concentrate on the important bits. 
+Dead is Dead is a new game mode for players looking for a new challenge, and who think Iron Man doesn't cut it just yet. With the Dead is Dead mode the game takes the burden of saving and savegame management from your shoulders so you can concentrate on the important bits.
 
 You select one savegame slot at the beginning of a new game, and the game will stick to that slot throughout your playthrough. The game will also make sure to save before you leave, so you can rest assured you will always be able to pick up at where you left.
 
