@@ -47,6 +47,8 @@ Then there is of course the [Wildfire support mod](features.md#wildfire-support)
 ### External mods
 Mods not hosted by us include:
   - **Azazel's custom map pack**: [Download here](https://storage.rcs-rds.ro/links/4729f8d6-f44b-42b7-aa3e-e0ddc6deead6?path=%2FJA_2%2FStracciatella%2FMods). See [forum thread](http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=24842&prevloaded=1&&start=40) for discussions.
+  - RogueLike Ashley Pringle: made obsolete by *Dead is Dead* game mode
+  - Alternate IMP creation by mgl: merged into core, enable `pick_skills_directly` in `game.json`
 
 Let us know if you're working on a mod, so we can feature it here!
 
