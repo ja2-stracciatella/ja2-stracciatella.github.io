@@ -10,6 +10,7 @@ improvements and providing new inobtrusive optional features.
   - [GUI Launcher](#gui-launcher)
   - [High Resolution Support](#high-resolution-support)
   - [Extra Hotkeys](#extra-hotkeys)
+  - [Touch Controls](#touch-controls)
   - [Dead is Dead mode](#dead-is-dead-mode)
   - [Infinite save games](#infinite-save-games)
   - [Better modding support](#better-modding-support)
@@ -67,7 +68,6 @@ Added support for high video resolutions. For example, game can be started in 16
 
 <img src="/img/features/high-res.jpg" style="max-width: 50%" alt="JA2 Stracciatella in 1680x1050 resolution">
 
-
 # Extra Hotkeys
 
 Besides the hotkeys present in the original game, JA2S adds the following for greater ease of use:
@@ -85,6 +85,21 @@ These require you toggle a [game.json](mods.md) switch:
 
 Additionally you can use the middle mouse button to make a merc look into the direction of the cursor.
 
+## Touch Controls
+*Note: added in 0.20.0.*
+
+Added support for touch devices.
+
+- Left click with a short touch
+- Right click with a long touch
+- Scroll with two fingers on the tactical screen
+- Confirm and adapt orders with separate touch controls on the tactical screen
+
+<p>
+  <video src="/img/features/touch-shoot.mp4" style="max-width: 49%" loop autoplay></video>
+
+  <video src="/img/features/touch-scroll.mp4" style="max-width: 49%" loop autoplay></video>
+</p>
 
 ## Dead is Dead mode
 *Note: added in 0.16.0.*
@@ -97,6 +112,7 @@ With Dead is Dead there is no going back. If mercs die, there is no way of bring
 
 
 ## Infinite save games
+*Note: added in 0.19.0.*
 
 The engine now supports saving and loading of arbitrarily named saved games, and an arbitrary number of them.
 The load screen is enhanced with game mode, difficuly and mod info plus a scrollbar.
