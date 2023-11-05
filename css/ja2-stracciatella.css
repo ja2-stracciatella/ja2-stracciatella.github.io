@@ -42,7 +42,7 @@
 }
 
 /* make read more when linking to a post less fat */
-.post-read-more, .post-preview a {
+.post-preview .post-read-more, .post-preview a {
   font-weight: normal;
   color: #9c2111;
 }
