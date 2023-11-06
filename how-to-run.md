@@ -198,7 +198,7 @@ Follow the instructions for your platform to install JA2 Stracciatella:
 
 The configuration file will be created on the first start of the application. It is located in
 
-- `%USERPROFILE%\Documents\JA2\ja2.json` on Windows.
+- `%USERPROFILE%\AppData\Roaming\JA2\ja2.json` on Windows (before version `0.21.0` it was`%USERPROFILE%\Documents\JA2\ja2.json`). 
 - `~/.ja2/ja2.json` on Linux, BSD or macOS.
 - `/data/data/io.github.ja2stracciatella/ja2.json` on Android, in the apps data directory. Usually not accessible by other apps.
 
@@ -206,7 +206,7 @@ The configuration file will be created on the first start of the application. It
 
 The savegame directory can be changed, for example to synchronize savegames with the cloud. By default the save games are located in
 
-- `%USERPROFILE%\Documents\JA2\SavedGames` on Windows.
+- `%USERPROFILE%\AppData\Roaming\JA2\SavedGames` on Windows (before version `0.21.0` it was`%USERPROFILE%\Documents\JA2\ja2.json`).
 - `~/.ja2/SavedGames` on Linux, BSD or macOS.
 - `/data/data/io.github.ja2stracciatella/SavedGames` on Android, in the apps data directory. Usually not accessible by other apps.
 
