@@ -7,7 +7,7 @@ title: ""
 
 <div class="posts-list">
   {% for post in site.posts %}
-  <article class="post-preview">
+  <article class="post-preview"  id="{{ post.title | slugify }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
 
     <p class="post-meta">
