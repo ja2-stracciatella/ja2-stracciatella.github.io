@@ -19,7 +19,7 @@ build64: -142
 - <span class="fa fa-lg fa-windows"></span>&nbsp; [Windows zip file 64 bit]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_win-msvc64{{ page.build64 }}.zip)
 - <span class="fa fa-lg fa-windows"></span>&nbsp; [Windows zip file 32 bit]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_win-msvc32{{ page.build32 }}.zip)
 - <span class="fa fa-lg fa-linux"></span>&nbsp; [Linux AppImage for 64 bit systems]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_x86-64.AppImage )
-<!--- - <span class="fa fa-lg fa-linux"></span>&nbsp; [Linux AppImage for ARMHF systems]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_armhf.AppImage) --->
+- <span class="fa fa-lg fa-linux"></span>&nbsp; [Linux AppImage for ARMHF systems]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_armhf.AppImage)
 - <span class="fa fa-lg fa-linux"></span>&nbsp; [Linux Flatpak for 64 bit systems](https://flathub.org/apps/io.github.ja2_stracciatella.JA2-Stracciatella)
 - <span class="fa fa-lg fa-apple"></span>&nbsp; [macOS bundle]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_macos.dmg)
 - <span class="fa fa-lg fa-android"></span>&nbsp; [Android APK]({{ page.dlUrl }}/v{{ page.release }}/ja2-stracciatella_{{ page.tag }}_android.apk)
