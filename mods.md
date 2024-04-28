@@ -48,6 +48,7 @@ Then there is of course the [Wildfire support mod](features.md#wildfire-support)
 Mods not hosted by us include:
   - **Return to San Amaro** by Azazel and Papill0n: See [forum thread](http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=25074&goto=365180&#msg_365180) for latest downloads.
   - **Azazel's custom map pack**: [Download here](https://storage.rcs-rds.ro/links/4729f8d6-f44b-42b7-aa3e-e0ddc6deead6?path=%2FJA_2%2FStracciatella%2FMods). See [forum thread](http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=24842&prevloaded=1&&start=40) for discussions.
+  - **Sweet Revenge** by Inveris: See [forum thread](http://thepit.ja-galaxy-forum.com/index.php?t=msg&th=25259&start=0&) for latest downloads.
   - RogueLike by Ashley Pringle: made obsolete by *Dead is Dead* game mode
   - Alternate IMP creation by mgl: merged into core, enable `pick_skills_directly` in `game.json`
 
