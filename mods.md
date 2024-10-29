@@ -12,13 +12,14 @@ permalink: /mods/
   * [External mods](#external-mods)
 - [Installing mods](#installing-mods)
 - [For modders](#for-modders)
-
+  * [Using JSON patches](#using-json-patches)
 
 ## Extra configuration
 ### `game.json`
 Advanced users can tweak additional options and make minor modifications by changing the values in their [game.json](https://raw.githubusercontent.com/ja2-stracciatella/ja2-stracciatella/master/assets/externalized/game.json). It's installed alongside the rest of the data and
 the launcher will show you the location where you can find it. You can make a copy and put it near your `ja2.json` configuration
-file, by creating a `data` folder for it. This way you won't lose your settings when you reinstall the engine.
+file, by creating a `data` folder for it. This way you won't lose your settings when you reinstall the engine. As of v0.22 creating
+a patch for the file **is suggested** (see section below), so it's less likely to become stale with later JA2S upgrades.
 
 ### Other externalized settings
 The project extracted many hardcoded values from the original sources into editable text files stored in the [assets/externalized](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/assets/externalized) directory. You can edit weapons, ammo, shops, enemy weapon
@@ -75,3 +76,42 @@ For mods to show up in the launcher, a `manifest.json` is required. It currently
 You can also find some extra tooling in our GitHub organization. See for example the [ja2-open-toolset](https://github.com/ja2-stracciatella/ja2-open-toolset#readme) and the prototype of [straccatella toolset](https://github.com/ja2-stracciatella/stracciatella-toolset#readme) for editing json files.
 
 If you have any questions, reach out to us on the usual channels. There are some labels on our issue tracker that are more likely to be interesting to modders: [modding](https://github.com/ja2-stracciatella/ja2-stracciatella/issues?q=is%3Aopen+is%3Aissue+label%3Amodding), [externalization](https://github.com/ja2-stracciatella/ja2-stracciatella/issues?q=is%3Aopen+is%3Aissue+label%3Aexternalization), [modding-breaking-change](https://github.com/ja2-stracciatella/ja2-stracciatella/issues?q=is%3Aopen+is%3Aissue+label%3Amodding-breaking-change).
+
+### Using JSON patches
+As of v0.22 JA2S supports the [JSON Patch](https://datatracker.ietf.org/doc/html/rfc6902/#section-4) format. What that means is that you don't have to maintain copies
+of whole JSON files, but just specify what you want to change.
+This has several benefits:
+- it makes the mod more resilient to changes to the files upstream,
+- it makes it possible for several mods to change the same file while maintaining compatibility (provided the changes don't conflict)
+- it reduces size and maintenance burden.
+
+Like with the full files themselves, the patches will be applied in the mod loading order. So if you want to create a mod for a mod, the user will just have
+to make sure your mod is later in the list.
+
+#### Creating patches
+If you want to change `FILE.json`, you will have to create `FILE.patch.json`. The easiest way is to make a copy of the file, change it however you desire,
+then use a [patch generator](https://chbrown.github.io/rfc6902/) to create the contents for the patch file. With the linked tool this would mean you paste
+the original file in the "input" box, the changed one in the "output" box and then "results" will change to show the patch, which you should save.
+
+That particular tool unfortunately does not support JSON comments. If you get parsing errors, you can try stripping all lines with `//` from both boxes first,
+since it is very likely the patch will apply normally to the original file (with the comments). Or you can write the patch manually, following the examples.
+Here's one for `game.json`, turning on multiple interrupts, IMP skill picking instead of the quiz and allowing for less skilled IMPs:
+```json
+[
+  {
+    "op": "replace",
+    "path": "/multiple_interrupts",
+    "value": true
+  },
+  {
+    "op": "replace",
+    "path": "/imp/min_attribute_points",
+    "value": 15
+  },
+  {
+    "op": "replace",
+    "path": "/imp/pick_skills_directly",
+    "value": true
+  }
+]
+```
