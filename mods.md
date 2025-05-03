@@ -85,8 +85,8 @@ This has several benefits:
 - it makes it possible for several mods to change the same file while maintaining compatibility (provided the changes don't conflict)
 - it reduces size and maintenance burden.
 
-Like with the full files themselves, the patches will be applied in the **reverse** mod loading order, oldest enabled mod to first. So if you want to create a mod for a mod, the user will just have
-to make sure your mod is in the list before it. If you're unsure about the order, you can run JA2S and it will log the mod priorities (and paths) on startup.
+Like with the full files themselves, the patches will be applied in the mod loading order, oldest enabled mod to first. So if you want to create a mod for a mod, the user will just have
+to make sure your mod is in the list after it. If you're unsure about the order, you can run JA2S and it will log the mod priorities (and paths) on startup.
 
 #### Creating patches
 If you want to change `FILE.json`, you will have to create `FILE.patch.json`. The easiest way is to make a copy of the file, change it however you desire,
