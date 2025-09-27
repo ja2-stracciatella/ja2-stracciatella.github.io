@@ -16,16 +16,25 @@ permalink: /mods/
 
 ## Extra configuration
 ### `game.json`
-Advanced users can tweak additional options and make minor modifications by changing the values in their [game.json](https://raw.githubusercontent.com/ja2-stracciatella/ja2-stracciatella/master/assets/externalized/game.json). It's installed alongside the rest of the data and
-the launcher will show you the location where you can find it. You can make a copy and put it near your `ja2.json` configuration
-file, by creating a `data` folder for it. This way you won't lose your settings when you reinstall the engine. As of v0.22 creating
-a patch for the file **is suggested** (see section below), so it's less likely to become stale with later JA2S upgrades.
+Advanced users can tweak additional options and make minor modifications by changing the values in their 
+[game.json](https://raw.githubusercontent.com/ja2-stracciatella/ja2-stracciatella/master/assets/externalized/game.json).
+It's installed alongside the rest of the data and the launcher will show you the location where you can find it. 
+
+You can make a copy and put it near your `ja2.json` configuration file by creating a `data` folder for it.
+This way you won't lose your settings when you reinstall the engine. As of v0.22 [creating
+a patch](#using-json-patches) for the file **is strongly suggested**, so it's less likely to become stale with later
+JA2S releases, meaning you're less likely to miss cool new features or break the game.
 
 ### Other externalized settings
-The project extracted many hardcoded values from the original sources into editable text files stored in the [assets/externalized](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/assets/externalized) directory. You can edit weapons, ammo, shops, enemy weapon
-choices and much more — **at your own peril**! You can copy them to your user directory the same way as `game.json`.
+The project extracted many hardcoded values from the original sources into editable text files stored in the [assets/externalized](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/assets/externalized) directory in the JSON format. You can edit weapons, ammo, shops, enemy weapon
+choices and much more — **at your own peril**! You can copy them to your user directory the same way as `game.json` or
+generate more robust patches [as discussed below](#using-json-patches).
 
-If you're using the AppImage version and want to modify any of the json files, create `~/.ja2/data` and copy them inside. They
+Most JSON files come with descriptions of their purpose and fields at the very beginning. Many of them also have namesake validation
+[(schema) files](https://github.com/ja2-stracciatella/ja2-stracciatella/tree/master/rust/stracciatella/src/schemas/yaml), 
+which also provide some documentation.
+
+If you're using the AppImage version and want to modify any of the JSON files, create `~/.ja2/data` and copy them inside. They
 will have precedence over the files supplied by us.
 
 
@@ -91,7 +100,8 @@ to make sure your mod is in the list after it. If you're unsure about the order,
 #### Creating patches
 If you want to change `FILE.json`, you will have to create `FILE.patch.json`. The easiest way is to make a copy of the file, change it however you desire,
 then use a [patch generator](https://chbrown.github.io/rfc6902/) to create the contents for the patch file. With the linked tool this would mean you paste
-the original file in the "input" box, the changed one in the "output" box and then "results" will change to show the patch, which you should save.
+the original file in the "input" box, the changed one in the "output" box and then "results" will change to show the patch. You should save it to your
+configuration folder: see note in the [game.json](#gamejson) section.
 
 That particular tool unfortunately does not support JSON comments. If you get parsing errors, you can try stripping all lines with `//` from both boxes first,
 since it is very likely the patch will apply normally to the original file (with the comments). Or you can write the patch manually, following the examples.
