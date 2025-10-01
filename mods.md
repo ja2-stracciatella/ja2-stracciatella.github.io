@@ -99,13 +99,11 @@ to make sure your mod is in the list after it. If you're unsure about the order,
 
 #### Creating patches
 If you want to change `FILE.json`, you will have to create `FILE.patch.json`. The easiest way is to make a copy of the file, change it however you desire,
-then use a [patch generator](https://chbrown.github.io/rfc6902/) to create the contents for the patch file. With the linked tool this would mean you paste
-the original file in the "input" box, the changed one in the "output" box and then "results" will change to show the patch. You should save it to your
-configuration folder: see note in the [game.json](#gamejson) section.
+then use a [patch generator](https://jsondiffpatch.com/) to create the contents for the patch file. With the linked tool this would mean you paste
+the original file in the "left" box, the changed one in the "right" box and then click on the "JSONPatch" tab. You should save its contents as `FILE.patch.json` to your
+configuration or mod folder: see note in the [game.json](#gamejson) section. Once you get a hang of it, you can also write patches by hand.
 
-That particular tool unfortunately does not support JSON comments. If you get parsing errors, you can try stripping all lines with `//` from both boxes first,
-since it is very likely the patch will apply normally to the original file (with the comments). Or you can write the patch manually, following the examples.
-Here's one for `game.json`, turning on multiple interrupts, IMP skill picking instead of the quiz and allowing for less skilled IMPs:
+Here's an example modifying `game.json`: turning on multiple interrupts, IMP skill picking instead of the quiz and allowing for less skilled IMPs:
 ```json
 [
   {
