@@ -97,6 +97,8 @@ This has several benefits:
 Like with the full files themselves, the patches will be applied in the mod loading order, oldest enabled mod to first. So if you want to create a mod for a mod, the user will just have
 to make sure your mod is in the list after it. If you're unsure about the order, you can run JA2S and it will log the mod priorities (and paths) on startup.
 
+If you plan to rewrite the whole or most of a file, say for a completely different Tony's shop inventory, using a full (replacement) file still makes more sense than a patch.
+
 #### Creating patches
 If you want to change `FILE.json`, you will have to create `FILE.patch.json`. The easiest way is to make a copy of the file, change it however you desire,
 then use a [patch generator](https://jsondiffpatch.com/) to create the contents for the patch file. With the linked tool this would mean you paste
