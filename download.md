@@ -35,3 +35,8 @@ Download previous releases from [Github](https://github.com/ja2-stracciatella/ja
 ### Nightlies
 
 Download the current development version [here](https://storage.googleapis.com/ja2-builds/index.html#nightlies/).
+
+### Latest sources
+
+Download the latest codebase via GitHub as a [git repository](https://github.com/ja2-stracciatella/ja2-stracciatella) or
+[zip file](https://github.com/ja2-stracciatella/ja2-stracciatella/archive/refs/heads/master.zip)
