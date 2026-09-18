@@ -148,7 +148,8 @@ The map editor is now integrated into the game. Start it through the launcher or
 ## Debug screens
 *Note: added in 0.15.0.*
 
-Some debug screens are accessible when using the `-debug` parameter.
+Some debug screens are accessible when using the `-debug` parameter. You may also want to enable the `informative_tooltips`
+key in `game.json`.
 
 Tactical Screen:
 
